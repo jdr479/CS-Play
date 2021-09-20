@@ -195,22 +195,45 @@ Has around 3 years of experience with programming. Mostly learned from courses i
 
 
 ### Interview 9
-**Summary:** Interviewee's major is accounting. She has little experience of programming, but she wants to start to learn it since she thinks it is important for her major to do some numerical analysis. For her, she would like to learn Python and R Language. She never play games, but she think that our method for teaching bored programming is the wonderful choice. She also advices that we could add some teaching videos to our websites.
+**Summary:** Interviewee's major is accounting. She has little experience of programming, but she wants to start to learn it since she thinks it is important for her major to do some numerical analysis. For her, she would like to learn Python and R Language. She never plays games, but she thinks that our method for teaching boring programming is a wonderful choice. She also advices that we could add some teaching videos to our websites.
 **Interviewer:** Jiasheng Yang
+**Interviewee:** Sara
 **Date:** 17 September 2021
 **Interview Method":** In-person
 **Consumer Segment:** 19 years old, beginner programmer
 **Key Insights:**
-* May be useful to make functionalities that teachers can use for students
-* A mix of reading and problem solving should be used, with assistance offered while solving a problem
+* Adding some videos about teaching. 
+* Some knowledge about how to do some numerical analysis.
 
 **Representative Quotes:**
-* "I can see myself using this in school, but not much personally"
+* "I can learn some basic knowledge about the numerical analysis."
 
 **Assessment: Must have / Nice to have / Don't care**
 * Mini-games, like Super Mary (Nice to have)
 * Easy (Nice to have)
 * Website (Nice to have)
+* Assistance for challenges (Must have)
+
+
+
+### Interview 10
+**Summary:** Interviewee's major is Computer Science. He is proficient in C Language, Java, and Python. He thinks teaching with playing will give an edge for the newcomer. As a master of programming, he doesn't need some basic knowledge, but he is willing to test CS-Play. He is also willing to recommend it to the newcomer.
+There should be various programming languages to teach. He always plays some large-scale games, like GTA5, CS, PUBG. From his own perspective, no matter what kinds of games are, we must pay more attention to teaching.
+**Interviewer:** Jiasheng Yang
+**Interviewee:** Ran Li
+**Date:** 17 September 2021
+**Interview Method":** In-person
+**Consumer Segment:** 21 years old, specialist programmer
+**Key Insights:**
+* Pay more attention to teaching. 
+
+**Representative Quotes:**
+* "No matter what kinds of games are, please don't forget your duty is teaching somebody programming."
+
+**Assessment: Must have / Nice to have / Don't care**
+* mini-games (Don't care)
+* Easy/difficult (Don't care)
+* Website (Dob't care)
 * Assistance for challenges (Must have)
 
 
