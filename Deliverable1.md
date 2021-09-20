@@ -69,24 +69,46 @@ Has around 3 years of experience with programming. Mostly learned from courses i
 
 
 ### Interview 3
-**Summary:** Write summary here   
-**Interviewer:** Write name here  
-**Interviewee:** Write name here  
-**Date:** Write date here   
-**Interview method:** Write which method was used, for example face-to-face or questionaire   
-**Consumer segment:** Write which consumer segment the interviewee is part of here  
+**Summary:** Couple months of programming experience. Mostly watched teacher do something and copied him. Didn't like how limited it was; she was only able to do 1-2 things. Also didn't like how long it took to learn. She is very much a visual learner and thinks of images when she is trying to memorize something. She has learned using games in the past and says that she "might want" a game like the one we are trying to build. In particular, she likes arcade-type games and games where you can make your own stuff.   
+**Interviewer:** Johnathan Ray  
+**Interviewee:** Julia Ray  
+**Date:** 18 September 2021   
+**Interview method:** In-person interview   
+**Consumer segment:** 16 years old, has learned some programming (beginner programmer)
 **Key insights:** 
-* Insight 1
-* Insight 2
+* Game needs to be helpful for visual learners
+* 
 
 **Representative quotes:** 
-* Quote 1
-* Quote 2
+* "Specify the kind of programming you are using and how it can be used in the real world"
 
 **Assessment: Must have / Nice to have / Don’t care** 
-* Feature 1 (Must have)
-* Feature 2 (Nice to have)
-* Feature 3 (Don´t care)
+* Teach the player visually (Must have)
+* Game elements (Nice to have)
+
+
+
+
+### Interview 4
+**Summary:** Has about 2 1/2 experience using early prgramming languages (i.e. QBasic, Fortran, Pascal) and early C++. Took programming classes in college (lecture classes). Did not like lack of guidance, enjoyed when program worked. She likes learning in an in-person classroom environment that doesn't rush her. Appreciates watching a person doing something and asking questions along the way. She likes the idea of our game and says that she "wants it". Wants the game to involve quick learning.
+**Interviewer:** Johnathan Ray  
+**Interviewee:** Leressa Ray  
+**Date:** 18 September 2021   
+**Interview method:** In-person interview   
+**Consumer segment:** Beginner programmer
+**Key insights:** 
+* Game should be able to show and tell the player about the topics it delves into
+* When playing, it should be easier to get better at the game
+
+**Representative quotes:** 
+* "Don't just tell me how something works. Show and tell me."
+* "I want to be able to do better easier"
+
+**Assessment: Must have / Nice to have / Don’t care** 
+* Show and tell the player what the concepts entail (Must have)
+* Game elements (Must have)
+* Ability to easily do better (Must have)
+
 
 
 
