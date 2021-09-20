@@ -2,10 +2,11 @@
 
 *Group 5 - “CS Play”*   
 *Date:* 19 September, 2021
+
 *Group members: Aidan Sullivan, Emma Carlsson, Johnathan Ray, Vincent Machado, Jiasheng Yang, Pengfei Liu*  
 
 ## 1. Introduction  
-We are creating a game that teaches programming by making the player solve game levels using different programming concepts such as loops, if-conditions and similar. We think that by making it into a game the content of programming will be more digestible. Many current ways of learning programming involves reading long walls of text or choosing among thousands of better or worse video tutorials. That's why we want to make the process simpler by offering a site that teaches using more interactive and fun methods. We belive that beginner programmers and younger people have an interest in games and would therefore enjoy learning programming on a site with game elements.
+We are creating a game that teaches programming by making the player solve game levels using different programming concepts such as loops, if-conditions and similar. We think that by making it into a game the content of programming will be more digestible. Many current ways of learning programming involves reading long walls of text or choosing among thousands of better or worse video tutorials. That's why we want to make the process simpler by offering a site that teaches using more interactive and fun methods. We belive that beginner programmers and younger people have an interest in games and would therefore enjoy learning programming on a site with game elements. 
 
 ## 2. Initial value proposition and consumer segments
 
@@ -17,7 +18,7 @@ CS-Play makes learning programming for beginners easy and fun like never before
 **Consumer segments:**
 * Younger people ca 16-25 years old
 * Beginner programmers
-* Who are interested in learning something about programming
+*
 
 ## 3. Interviews summary
 
@@ -107,21 +108,21 @@ Has around 3 years of experience with programming. Mostly learned from courses i
 
 
 ### Interview 5
-**Summary:** He has learned about C in his senior high school, but has forgotten a lot. He is willing to learn something about programming. He wants to learning through video tutorial because he thinks it is convenient for him. When I introduce our program to him, he shows a great interest in it and says he think it is nice to have. And he prefer to have this game in the website formation.
+**Summary:** He has learnt about C in his senior high school, but has forgotten a lot. He is willing to learn something about programming. He wants to learning through vedio tutorial because he things it is convenient for him. When I introduce our program to him, he shows a great interest in it and says he think it is nice to have. And he prefer to have this game in the website formation.
 **Interviewer:** Pengfei Liu
 **Interviewee:** Jiaxuan Zhang  
 **Date:** 17 September 2021   
 **Interview method:** In-person interview   
 **Consumer segment:** Beginner programmer
-**Key insights:**
+**Key insights:** 
 * It should be easy-going, not too hard in the beginning, and has a gradual process of becoming difficult
 * through playing this game, he wants to be a junior programmer.
 
-**Representative quotes:**
+**Representative quotes:** 
 * "What level can I achieve? If I can be a junior programmer after playing this game, it will be a very cool thing."
 * "If it is too difficult or too easy in the beginning, I may lose my interest in playing it."
 
-**Assessment: Must have / Nice to have / Don’t care**
+**Assessment: Must have / Nice to have / Don’t care** 
 * easy-going (Must have)
 * Game elements (Must have)
 * website platform (Nice have)
@@ -130,21 +131,21 @@ Has around 3 years of experience with programming. Mostly learned from courses i
 
 
 ### Interview 6
-**Summary:** He has learned about C in his senior high school, but has forgotten a lot. He is willing to learn something about programming. He wants to learn through video tutorial because he thinks it is convenient for him. When I introduce our program to him, he shows a great interest in it and says he thinks it is nice to have. And he prefers to have this game in the website formation.
+**Summary:** He has learnt about C in his senior high school, but has forgotten a lot. He is willing to learn something about programming. He wants to learning through vedio tutorial because he things it is convenient for him. When I introduce our program to him, he shows a great interest in it and says he think it is nice to have. And he prefer to have this game in the website formation.
 **Interviewer:** Pengfei Liu
 **Interviewee:** Zicheng Wang  
 **Date:** 18 September 2021   
 **Interview method:** online call interview   
 **Consumer segment:** No experience
-**Key insights:**
+**Key insights:** 
 * It is a cool thing to learning some programming skills through playing games
 * The plot of the game is very important.
 
-**Representative quotes:**
+**Representative quotes:** 
 * "I haven't learned about programming at all, but if it is in the form of web games, I will be happy to play it."
 * "I hope this game is not so boring and a little challenging."
 
-**Assessment: Must have / Nice to have / Don’t care**
+**Assessment: Must have / Nice to have / Don’t care** 
 * easy-going in the beginning and slowly challenging (Must have)
 * Game plots (Must have)
 * website platform (Nice have)
@@ -193,10 +194,29 @@ Has around 3 years of experience with programming. Mostly learned from courses i
 
 
 
+### Interview 9
+**Summary:** Interviewee's major is accounting. She has little experience of programming, but she wants to start to learn it since she thinks it is important for her major to do some numerical analysis. For her, she would like to learn Python and R Language. She never play games, but she think that our method for teaching bored programming is the wonderful choice. She also advices that we could add some teaching videos to our websites.
+**Interviewer:** Jiasheng Yang
+**Date:** 17 September 2021
+**Interview Method":** In-person
+**Consumer Segment:** 19 years old, beginner programmer
+**Key Insights:**
+* May be useful to make functionalities that teachers can use for students
+* A mix of reading and problem solving should be used, with assistance offered while solving a problem
+
+**Representative Quotes:**
+* "I can see myself using this in school, but not much personally"
+
+**Assessment: Must have / Nice to have / Don't care**
+* Mini-games, like Super Mary (Nice to have)
+* Easy (Nice to have)
+* Website (Nice to have)
+* Assistance for challenges (Must have)
+
+
+
 ## 4. Final value proposition and consumer segments
 **Final value proposition:**
+Easier and happier for programming.
 
 **Consumer segments:**
-* Younger people among 16-25 years old
-* Beginner programmers
-* Who are interested in learning something about programming
