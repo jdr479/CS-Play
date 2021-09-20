@@ -106,6 +106,50 @@ Has around 3 years of experience with programming. Mostly learned from courses i
 * Ability to easily do better (Must have)
 
 
+### Interview 5
+**Summary:** He has learnt about C in his senior high school, but has forgotten a lot. He is willing to learn something about programming. He wants to learning through vedio tutorial because he things it is convenient for him. When I introduce our program to him, he shows a great interest in it and says he think it is nice to have. And he prefer to have this game in the website formation.
+**Interviewer:** Pengfei Liu
+**Interviewee:** JIaxuan Zhang  
+**Date:** 17 September 2021   
+**Interview method:** In-person interview   
+**Consumer segment:** Beginner programmer
+**Key insights:** 
+* It should be easy-going, not too hard in the beginning, and has a gradual process of becoming difficult
+* through playing this game, he wants to be a junior programmer.
+
+**Representative quotes:** 
+* "What level can I achieve? If I can be a junior programmer after playing this game, it will be a very cool thing."
+* "If it is too difficult or too easy in the beginning, I may lose my interest in playing it."
+
+**Assessment: Must have / Nice to have / Don’t care** 
+* easy-going (Must have)
+* Game elements (Must have)
+* website platform (Nice have)
+* what kind of languages(Don't care)
+
+
+
+### Interview 6
+**Summary:** He has learnt about C in his senior high school, but has forgotten a lot. He is willing to learn something about programming. He wants to learning through vedio tutorial because he things it is convenient for him. When I introduce our program to him, he shows a great interest in it and says he think it is nice to have. And he prefer to have this game in the website formation.
+**Interviewer:** Pengfei Liu
+**Interviewee:** Zicheng Wang  
+**Date:** 18 September 2021   
+**Interview method:** online call interview   
+**Consumer segment:** No experience
+**Key insights:** 
+* It is a cool thing to learning some programming skills through playing games
+* The plot of the game is very important.
+
+**Representative quotes:** 
+* "I haven't learned about programming at all, but if it is in the form of web games, I will be happy to play it."
+* "I hope this game is not so boring and a little challenging."
+
+**Assessment: Must have / Nice to have / Don’t care** 
+* easy-going in the beginning and slowly challenging (Must have)
+* Game plots (Must have)
+* website platform (Nice have)
+
+
 
 
 ## 4. Final value proposition and consumer segments
