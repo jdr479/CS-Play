@@ -18,7 +18,7 @@ CS-Play makes learning programming for beginners easy and fun like never before
 **Consumer segments:**
 * Younger people ca 16-25 years old
 * Beginner programmers
-*
+* People who want to learn something about programming
 
 ## 3. Interviews summary
 
@@ -243,3 +243,6 @@ There should be various programming languages to teach. He always plays some lar
 Easier and happier for programming.
 
 **Consumer segments:**
+* Younger people ca 16-25 years old
+* Beginner programmers
+* People who want to learn something about programming
