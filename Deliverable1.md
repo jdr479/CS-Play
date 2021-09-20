@@ -4,12 +4,8 @@
 *Date:* 19 September, 2021
 *Group members: Aidan Sullivan, Emma Carlsson, Johnathan Ray, Vincent Machado, Jiasheng Yang, Pengfei Liu*  
 
-## 1. Introduction
-Write a paragraph about:  
-What? Making a game that teaches programming  
-Why? Making the programming process more digestible   
-Target audience? Beginner programmers, age: teenagers and up  
-Platform: Website but subject for change
+## 1. Introduction  
+We are creating a game that teaches programming by making the player solve game levels using different programming concepts such as loops, if-conditions and similar. We think that by making it into a game the content of programming will be more digestible. Many current ways of learning programming involves reading long walls of text or choosing among thousands of better or worse video tutorials. That's why we want to make the process simpler by offering a site that teaches using more interactive and fun methods. We belive that beginner programmers and younger people have an interest in games and would therefore enjoy learning programming on a site with game elements.
 
 ## 2. Initial value proposition and consumer segments
 
