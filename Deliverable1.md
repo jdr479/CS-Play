@@ -107,9 +107,9 @@ Has around 3 years of experience with programming. Mostly learned from courses i
 
 
 ### Interview 5
-**Summary:** He has learnt about C in his senior high school, but has forgotten a lot. He is willing to learn something about programming. He wants to learning through vedio tutorial because he things it is convenient for him. When I introduce our program to him, he shows a great interest in it and says he think it is nice to have. And he prefer to have this game in the website formation.
+**Summary:** He has learned about C in his senior high school, but has forgotten a lot. He is willing to learn something about programming. He wants to learning through video tutorial because he thinks it is convenient for him. When I introduce our program to him, he shows a great interest in it and says he think it is nice to have. And he prefer to have this game in the website formation.
 **Interviewer:** Pengfei Liu
-**Interviewee:** JIaxuan Zhang  
+**Interviewee:** Jiaxuan Zhang  
 **Date:** 17 September 2021   
 **Interview method:** In-person interview   
 **Consumer segment:** Beginner programmer
@@ -130,7 +130,7 @@ Has around 3 years of experience with programming. Mostly learned from courses i
 
 
 ### Interview 6
-**Summary:** He has learnt about C in his senior high school, but has forgotten a lot. He is willing to learn something about programming. He wants to learning through vedio tutorial because he things it is convenient for him. When I introduce our program to him, he shows a great interest in it and says he think it is nice to have. And he prefer to have this game in the website formation.
+**Summary:** He has learned about C in his senior high school, but has forgotten a lot. He is willing to learn something about programming. He wants to learn through video tutorial because he thinks it is convenient for him. When I introduce our program to him, he shows a great interest in it and says he thinks it is nice to have. And he prefers to have this game in the website formation.
 **Interviewer:** Pengfei Liu
 **Interviewee:** Zicheng Wang  
 **Date:** 18 September 2021   
@@ -151,7 +151,7 @@ Has around 3 years of experience with programming. Mostly learned from courses i
 
 
 
-### Interview 5
+### Interview 7
 **Summary:** Interviewee has about 4 years of coding experience, has knowledge in C++, Python, Java, Html, and CSS. Currently in college and is still taking coding courses. Usually learns from online video tutorials and websites. Thinks that these learning platforms contain more information, but mostly lack engagement. Enjoys making personal challenges while learning a topic, and says that is when he learns the most. Says that a website is the most useful platform for our software. Has experience playing games, usually strategy games, and thinks that this genre would be a good learning device. Overall consensus is that the idea has some good features, but it might be useful to have a mix between mini-games and learning for it to be really useful.
 **Interviewer:** Aidan Sullivan
 **Interviewee:** Miles Brown
@@ -172,7 +172,7 @@ Has around 3 years of experience with programming. Mostly learned from courses i
 
 
 
-### Interview 6
+### Interview 8
 **Summary:** Interviewee has limited programming experience, mainly in c with OS. Is currently attending college, which is where most of their programming experience comes from. Doesn't particularly enjoy learning on his own, instead learns more from a classroom experience. Thinks our idea is useful, but not something that they would use regularly, unless it was required to use for school. Has a lot of experience playing games, usually FPS, RPG, and multiplayer games. Thinks that the games should be difficult, but still offer a bit of help if needed.
 **Interviewer:** Aidan Sullivan
 **Date:** Nick Rogers
