@@ -17,7 +17,7 @@ CS-Play makes learning programming for beginners easy and fun like never before
 **Consumer segments:**
 * Younger people ca 16-25 years old
 * Beginner programmers
-*
+* Who are interested in learning something about programming
 
 ## 3. Interviews summary
 
@@ -197,3 +197,6 @@ Has around 3 years of experience with programming. Mostly learned from courses i
 **Final value proposition:**
 
 **Consumer segments:**
+* Younger people among 16-25 years old
+* Beginner programmers
+* Who are interested in learning something about programming
