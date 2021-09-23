@@ -30,7 +30,7 @@
 **Actor:** User   
 **Description:** The user can play the level they select    
 **Preconditions:** The user has an account and looks at the available levels   
-**Postconditions:** The user haa played a level
+**Postconditions:** The user has played a level   
 **Main flow:**
 1. The user selects a level
 2. The user plays the selected level
@@ -46,4 +46,4 @@
 **Estimated hours:** 4
 
 
-## 8. . Issue Tracker
+## 8. Issue Tracker
