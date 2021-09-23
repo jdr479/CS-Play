@@ -26,6 +26,14 @@
 ### 6.1 Use case diagram
 
 ### 6.2 Use case descriptions and interface sketch
+**Use case:** Play level  
+**Actor:** User   
+**Description:** The user can play the level they select    
+**Preconditions:** They have an account and looks at the available levels   
+**Postconditions:** They have played a level and hopefully learnt something   
+**Main flow:**
+1. The user selects a level
+2. The user plays the selected level
 
 
 ## 7. User stories
