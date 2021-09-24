@@ -7,20 +7,30 @@
 
 ## 1. Positioning
 
-### 1.1 Problem statement 
+### 1.1 Problem statement
+There is the common phenomenon that most of people think programming is hard and boring to learn. In addition, the lack of engagemment from learning programming affects beginner programmers and non-programmers. All of factors make people lose interest or have no interest in programming.
 
 ### 1.2 Product Position Statement
+For beginner programmers and non-programmers who are not interested in learning programming, CS-Play is an interactive learning platform that teaches programming with puzzles and games, unlike traditional teaching methods in the classroom or by the video guidance, which have little to no interactivity. Our product allows users to "write code" immediately by playing games that are more like adventures with guidance and direct results(grades and feedback). The users also can share their works in our community so that they could learn from each other, which everybody is taking part in wins.
 
 ### 1.3 Value proposition and customer segment
 **Initial value proposition:**  
-CS-Play makes learning programming for beginners easy and fun like never before
+CS-Play makes learning programming for beginners easy and fun like never before.
+
+**Initial value proposition:**  
+Easier and happier for programming.
 
 **Consumer segments:**
-* Younger people ca 16-25 years old
+* Younger people are 16-25 years old
 * Beginner programmers
 * People who want to learn something about programming
 
+
 ## 2. Stakeholders
+* Developers (We)
+* Beginner programmers
+* Non-programmers that want to learn programming
+* Educators/teachers/expert programmers (May recommand our product to their students or newcomers)
 
 
 ## 3. Functional requirements (features)
@@ -65,5 +75,12 @@ CS-Play makes learning programming for beginners easy and fun like never before
 **Priority:** 4   
 **Estimated hours:** 4
 
+**User story 3:** "As a beginner programmer, I want to learn a programming language systematically so that I can apply it in diverse situations."  
+**Priority:** 2   
+**Estimated hours:** 5
+
+**User story 4:** "As a beginner programmer, I want to share my works in the community so that I can learn from each other."  
+**Priority:** 4   
+**Estimated hours** 4
 
 ## 8. Issue Tracker
