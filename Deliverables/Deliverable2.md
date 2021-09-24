@@ -38,6 +38,12 @@ CS-Play makes learning programming for beginners easy and fun like never before
 
 
 ## 5. MVP
+* The ability to create an account - it is a basic step of almost every games and it be tested via implementation
+* Access to Help documentation -  When players have some troubles in succeeding in the game, she/he can ask for help through Help documentation and this MVP can be tested via     Wizard of Woz.
+* The ability to play the level - The programming level of players may be different, so it is important to make sure that players can choose a suitable level to play. It can be   tested by implementation.
+* Game background and layout - We can get some feedback if our players are not satisfied with the background and the layout, so it can be tested via Wizard of Woz.
+* Show score/measure of success - After playing the game, players have the access to know how they performed, and it can be tested by questionnaire.
+
 
 
 ## 6. Use cases
@@ -55,6 +61,15 @@ CS-Play makes learning programming for beginners easy and fun like never before
 1. The user selects a level
 2. The user plays the selected level
 
+**Use case:** Creat account
+**Actor:** User
+**Description:** The user must creat an account before playing the game
+**Preconditions:** Know the game CS-Play
+**Postconditions:** The user has created an account
+**Main flow:** 
+1. The user will fill in personal information
+2. When users have createed accounts, they can play the game.
+
 
 ## 7. User stories
 **User story 1:** "As a user, I want to play a level so I can learn programming"  
@@ -63,6 +78,14 @@ CS-Play makes learning programming for beginners easy and fun like never before
 
 **User story 2:** "As a user, I want to look at all the available levels so that I can select one and play"  
 **Priority:** 4   
+**Estimated hours:** 4
+
+**User story 3:** "As a player, I want a Help documentation so that I can refer to it when I encounter problems."
+**Priority:** 3
+**Estimated hours:** 3
+
+**User story 4:** "AS a player, I want to be able to see the results so that I can know whether I have made progress or not."
+**Priority:** 2
 **Estimated hours:** 4
 
 
