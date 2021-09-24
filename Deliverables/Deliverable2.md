@@ -43,7 +43,7 @@ CS-Play makes learning programming for beginners easy and fun like never before
 ## 6. Use cases
 
 ### 6.1 Use case diagram
-![Use case diagram](UseCaseDiagram_CS-Play.png)
+![Use case diagram](../images/UseCaseDiagram_CS-Play.png)
 
 ### 6.2 Use case descriptions and interface sketch
 **Use case:** Play level  
