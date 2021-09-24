@@ -71,11 +71,11 @@ Easier and happier for programming.
 1. The user selects a level
 2. The user plays the selected level
 
-**Use case:** Create account
-**Actor:** User
-**Description:** The user must create an account before playing the game
-**Preconditions:** Know the game CS-Play
-**Postconditions:** The user has created an account
+**Use case:** Create account  
+**Actor:** User     
+**Description:** The user must create an account before playing the game  
+**Preconditions:** Know the website CS-Play  
+**Postconditions:** The user has created an account   
 **Main flow:** 
 1. The user will fill in personal information
 2. When a user have created an account, they can play the game
