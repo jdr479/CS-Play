@@ -8,10 +8,10 @@
 ## 1. Positioning
 
 ### 1.1 Problem statement
-There is the common phenomenon that most of people think programming is hard and boring to learn. In addition, the lack of engagemment from learning programming affects beginner programmers and non-programmers. All of factors make people lose interest or have no interest in programming.
+It is the common phenomenon that most of people think programming is hard and boring to learn. In addition, the lack of engagemment from learning programming affects beginner programmers and non-programmers. These factors make people lose interest in programming.
 
 ### 1.2 Product Position Statement
-For beginner programmers and non-programmers who are not interested in learning programming, CS-Play is an interactive learning platform that teaches programming with puzzles and games, unlike traditional teaching methods in the classroom or by the video guidance, which have little to no interactivity. Our product allows users to "write code" immediately by playing games that are more like adventures with guidance and direct results(grades and feedback). The users also can share their works in our community so that they could learn from each other, which everybody is taking part in wins.
+For beginner programmers and non-programmers who are interested in learning programming, CS-Play is an interactive learning platform that teaches programming with puzzles and games, unlike traditional teaching methods in the classroom or video tutorials, which have little to no interactivity. Our product allows users to "write code" immediately by playing games that are more like adventures with guidance and direct results (grades and feedback). The users can also share their work in our community so that they could learn from each other, which is a win for everyone.
 
 ### 1.3 Value proposition and customer segment
 **Initial value proposition:**  
@@ -21,7 +21,7 @@ CS-Play makes learning programming for beginners easy and fun like never before.
 Easier and happier for programming.
 
 **Consumer segments:**
-* Younger people are 16-25 years old
+* Younger people, 16-25 years old
 * Beginner programmers
 * People who want to learn something about programming
 
@@ -48,6 +48,12 @@ Easier and happier for programming.
 
 
 ## 5. MVP
+* The ability to create an account - it is a basic step of almost every games and it can be tested via implementation
+* Access to Help documentation -  When players have some troubles in succeeding in the game, she/he can ask for help through Help documentation and this MVP can be tested via     Wizard of Woz.
+* The ability to play the level - The programming level of players may be different, so it is important to make sure that players can choose a suitable level to play. It can be   tested by implementation.
+* Game background and layout - We can get some feedback if our players are not satisfied with the background and the layout, so it can be tested via Wizard of Woz.
+* Show score/measure of success - After playing the game, players have the access to know how they performed, and it can be tested by questionnaire.
+
 
 
 ## 6. Use cases
@@ -65,6 +71,15 @@ Easier and happier for programming.
 1. The user selects a level
 2. The user plays the selected level
 
+**Use case:** Create account
+**Actor:** User
+**Description:** The user must create an account before playing the game
+**Preconditions:** Know the game CS-Play
+**Postconditions:** The user has created an account
+**Main flow:** 
+1. The user will fill in personal information
+2. When a user have created an account, they can play the game
+
 
 ## 7. User stories
 **User story 1:** "As a user, I want to play a level so I can learn programming"  
@@ -75,12 +90,20 @@ Easier and happier for programming.
 **Priority:** 4   
 **Estimated hours:** 4
 
-**User story 3:** "As a beginner programmer, I want to learn a programming language systematically so that I can apply it in diverse situations."  
-**Priority:** 2   
+**User story 3:** "As a beginner programmer, I want to learn a programming language systematically so that I can apply it in diverse situations."   
+**Priority:** 2     
 **Estimated hours:** 5
 
-**User story 4:** "As a beginner programmer, I want to share my works in the community so that I can learn from each other."  
-**Priority:** 4   
+**User story 4:** "As a beginner programmer, I want to share my levels in the community so that we can learn from each other."    
+**Priority:** 4     
 **Estimated hours** 4
+
+**User story 5:** "As a player, I want to be able to see help documentation so that I can refer to it when I encounter problems." 
+**Priority:** 3 
+**Estimated hours:** 3
+
+**User story 6:** "As a player, I want to be able to see the results so that I can know whether I have made progress or not." 
+**Priority:** 2 
+**Estimated hours:** 4
 
 ## 8. Issue Tracker
