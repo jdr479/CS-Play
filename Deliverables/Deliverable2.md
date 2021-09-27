@@ -88,6 +88,28 @@ Easier and happier for programming.
 1. The user will fill in personal information
 2. When a user have created an account, they can play the game
 
+**Use case:** Edit account details
+**Actor:** User
+**Description:** The user may be able to change their account details
+**Preconditions:** User must have created an account and must be signed in
+**Postconditions:** User has updated their account and each update is reflected in the DB
+**Main flow:**
+1. The user signs into an account
+2. The user views account details and selects to edit details
+3. The user changes account details through text boxes
+4. The user confirms changes
+5. Visual confirmation is shown to the user
+
+**Use case:** Create a level
+**Actor:** User
+**Description:** Any user may be able to create their own level through our level editor
+**Preconditions:** The user must have an account and must be signed in
+**Postconditions:** User creates a level, which then becomes available to the community
+**Main flow:**
+1. The user selects "Create a level" in the UI
+2. The user is directed to the level editor. If it is their first time creating one, a tutorial is given
+3. Once the level is created, the user submits
+4. The level becomes available to the public through the community tab
 
 ## 7. User stories
 **User story 1:** "As a user, I want to play a level so I can learn programming"  
@@ -116,3 +138,4 @@ Easier and happier for programming.
 
 
 ## 8. Issue Tracker
+[Our Trello Board for Issue Tracking](https://trello.com/b/6tZySP6X/cs-play)
