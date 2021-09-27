@@ -27,10 +27,12 @@ Easier and happier for programming.
 
 
 ## 2. Stakeholders
-* Developers (We)
-* Beginner programmers
-* Non-programmers that want to learn programming
-* Educators/teachers/expert programmers (May recommand our product to their students or newcomers)
+* Developers - These people update and implement features onto the website, game, and other parts of the platform.
+* Beginner programmers - Individuals that have just started programming and need a platform that can teach them how to program.
+* Non-programmers that want to learn programming - Individuals that have no experience programming but are interested in learning.
+* Educators/teachers/expert programmers - Those that will recommand the product to their students, colleagues, etc.
+* Websites that teach programming (i.e. Code Academy, Khan Academy) - These are websites that have video tutorials on how to program.
+* Classes that teach programming - These are classes that can be found online or at a school that teach individuals how to program in a classroom setting.
 
 
 ## 3. Functional requirements (features)
@@ -88,11 +90,11 @@ Easier and happier for programming.
 1. The user will fill in personal information
 2. When a user have created an account, they can play the game
 
-**Use case:** Edit account details
-**Actor:** User
-**Description:** The user may be able to change their account details
-**Preconditions:** User must have created an account and must be signed in
-**Postconditions:** User has updated their account and each update is reflected in the DB
+**Use case:** Edit account details  
+**Actor:** User 
+**Description:** The user may be able to change their account details 
+**Preconditions:** User must have created an account and must be signed in  
+**Postconditions:** User has updated their account and each update is reflected in the DB 
 **Main flow:**
 1. The user signs into an account
 2. The user views account details and selects to edit details
@@ -100,16 +102,26 @@ Easier and happier for programming.
 4. The user confirms changes
 5. Visual confirmation is shown to the user
 
-**Use case:** Create a level
-**Actor:** User
-**Description:** Any user may be able to create their own level through our level editor
-**Preconditions:** The user must have an account and must be signed in
-**Postconditions:** User creates a level, which then becomes available to the community
+**Use case:** Create a level  
+**Actor:** User 
+**Description:** Any user may be able to create their own level through our level editor  
+**Preconditions:** The user must have an account and must be signed in  
+**Postconditions:** User creates a level, which then becomes available to the community 
 **Main flow:**
 1. The user selects "Create a level" in the UI
 2. The user is directed to the level editor. If it is their first time creating one, a tutorial is given
 3. Once the level is created, the user submits
 4. The level becomes available to the public through the community tab
+
+**Use case:** See leaderboard   
+**Actor:** User       
+**Description:** The user can look at a leaderboard and see how they are ranked compared to other users.  
+**Preconditions:** The user has an account and makes their way to the leaderboard.    
+**Postconditions:** The user knows where they are on the leaderboard compared to other users.     
+**Main flow:** 
+1. The user makes their way to the leaderboard.
+2. The website shows the user where they are ranked on the leaderboard.
+3. The user can look through the rest of the leaderboard to see where other users are ranked.
 
 ## 7. User stories
 **User story 1:** "As a user, I want to play a level so I can learn programming"  
@@ -135,6 +147,14 @@ Easier and happier for programming.
 **User story 6:** "As a player, I want to be able to see the results so that I can know whether I have made progress or not."
 **Priority:** 2
 **Estimated hours:** 4
+
+**User story 7:** "As an educator, I want to share this website with my students so they can use it if they are interested in programming.  
+**Priority:** 5   
+**Estimated hours:** 5
+
+**User story 8:** "As a player, I want to look at the leaderboard so I can see where I am ranked compared to others.  
+**Priority:** 2   
+**Estimated hours:** 6
 
 
 ## 8. Issue Tracker
