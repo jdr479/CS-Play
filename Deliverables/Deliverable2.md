@@ -130,7 +130,8 @@ CS-Play makes learning programming for beginners easy and fun like never before.
 **Priority:** 4   
 **Estimated hours:** 4
 
-**User story 3:** "As a player, I want to learn a programming language systematically so that I can apply it in diverse situations."   
+
+**User story 3:** "As a player, I want to learn a programming language systematically so that I can apply it in diverse situations."    
 **Priority:** 2     
 **Estimated hours:** 5
 
@@ -165,4 +166,5 @@ CS-Play makes learning programming for beginners easy and fun like never before.
 
 ## 8. Issue Tracker
 [Our Trello Board for Issue Tracking](https://trello.com/b/6tZySP6X/cs-play)
-![Screenshot of our Trello board](../images/TrelloScreenshot.png)
+![Our Updated Issue Tracker](../images/TrelloBoardWithUserStories.PNG)
+
