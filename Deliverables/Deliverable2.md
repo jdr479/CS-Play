@@ -3,7 +3,7 @@
 *Group 5 - “CS Play”*   
 *Date:* 26 September, 2021
 
-*Group members: Aidan Sullivan, Emma Carlsson, Johnathan Ray, Vincent Machado, Jiasheng Yang, Pengfei Liu* 
+*Group members: Aidan Sullivan, Emma Carlsson, Johnathan Ray, Vincent Machado, Jiasheng Yang, Pengfei Liu*
 
 ## 1. Positioning
 
@@ -45,7 +45,15 @@ Easier and happier for programming.
 
 
 ## 4. Non-functional requirements
-
+* _Usability_: User Interface must be simple and maneuverable
+* _Usability_: Administrator will be able to view and alter user's account information if requested by the user
+* _Reliability_: User login failures should not happen over a rate of 1 per 100 logins
+* _Data Integrity_: Database must maintain referential and entity integrity
+* _Performance_: The process of submitting code into a game should not exceed 1 second
+* _Performance_: Compiling and executing code on the server should not exceed 10 seconds
+* _Platform Constraint_: Software should operate on website
+* _Compatibility_: Website should be compatible for the following desktop browsers: Chrome, Microsoft Edge, Firefox, Opera
+* _Privacy_: User will have username publicly visible by default, but all other user information can be specified as available by the user
 
 ## 5. MVP
 * The ability to create an account - it is a basic step of almost every games and it can be tested via implementation
@@ -76,7 +84,7 @@ Easier and happier for programming.
 **Description:** The user must create an account before playing the game  
 **Preconditions:** Know the website CS-Play  
 **Postconditions:** The user has created an account   
-**Main flow:** 
+**Main flow:**
 1. The user will fill in personal information
 2. When a user have created an account, they can play the game
 
@@ -84,7 +92,7 @@ Easier and happier for programming.
 ## 7. User stories
 **User story 1:** "As a user, I want to play a level so I can learn programming"  
 **Priority:** 1   
-**Estimated hours:** 12 
+**Estimated hours:** 12
 
 **User story 2:** "As a user, I want to look at all the available levels so that I can select one and play"  
 **Priority:** 4   
@@ -98,12 +106,13 @@ Easier and happier for programming.
 **Priority:** 4     
 **Estimated hours** 4
 
-**User story 5:** "As a player, I want to be able to see help documentation so that I can refer to it when I encounter problems." 
-**Priority:** 3 
+**User story 5:** "As a player, I want to be able to see help documentation so that I can refer to it when I encounter problems."
+**Priority:** 3
 **Estimated hours:** 3
 
-**User story 6:** "As a player, I want to be able to see the results so that I can know whether I have made progress or not." 
-**Priority:** 2 
+**User story 6:** "As a player, I want to be able to see the results so that I can know whether I have made progress or not."
+**Priority:** 2
 **Estimated hours:** 4
+
 
 ## 8. Issue Tracker
