@@ -136,6 +136,14 @@ Easier and happier for programming.
 **Priority:** 2
 **Estimated hours:** 4
 
+**User story 7:** "As a creator, I want to create my own levels"
+**Priority:** 3
+**Estimated hours:** 8
+
+**User story 8:** "As a player, I want to type and run my own code on the website"
+**Priority:** 1
+**Estimated hours:** 8
+
 
 ## 8. Issue Tracker
 [Our Trello Board for Issue Tracking](https://trello.com/b/6tZySP6X/cs-play)
