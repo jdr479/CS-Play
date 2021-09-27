@@ -123,7 +123,7 @@ CS-Play makes learning programming for beginners easy and fun like never before.
 
 **Use case:** Sort/categorize levels   
 **Actor:** Player       
-**Description:** The user can sort levels so that they can choose something they want to learn quickly and conveniently.
+**Description:** The user can sort levels so that they can choose something they want to learn quickly and conveniently.  
 **Preconditions:** The user could choose different levels.    
 **Postconditions:** The user could study according to different levels.     
 **Main flow:**
