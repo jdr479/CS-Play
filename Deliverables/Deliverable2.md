@@ -82,11 +82,11 @@ Easier and happier for programming.
 1. The user will fill in personal information
 2. When a user have created an account, they can play the game
 
-**Use case:** See leaderboard  
-**Actor:** User     
-**Description:** The user can look at a leaderboard and see how they are ranked compared to other users.
-**Preconditions:** The user has an account and makes their way to the leaderboard.   
-**Postconditions:** The user knows where they are on the leaderboard compared to other users.   
+**Use case:** See leaderboard   
+**Actor:** User       
+**Description:** The user can look at a leaderboard and see how they are ranked compared to other users.  
+**Preconditions:** The user has an account and makes their way to the leaderboard.    
+**Postconditions:** The user knows where they are on the leaderboard compared to other users.     
 **Main flow:** 
 1. The user makes their way to the leaderboard.
 2. The website shows the user where they are ranked on the leaderboard.
@@ -118,12 +118,13 @@ Easier and happier for programming.
 **Priority:** 2 
 **Estimated hours:** 4
 
-**User story 7:** "As an educator, I want to share this website with my students so they can use it if they are interested in programming.
-**Priority:** 5 
+**User story 7:** "As an educator, I want to share this website with my students so they can use it if they are interested in programming.  
+**Priority:** 5   
 **Estimated hours:** 5
 
-**User story 8:** "As a player, I want to look at the leaderboard so I can see where I am ranked compared to others.
-**Priority:** 2 
+**User story 8:** "As a player, I want to look at the leaderboard so I can see where I am ranked compared to others.  
+**Priority:** 2   
 **Estimated hours:** 6
+
 
 ## 8. Issue Tracker
