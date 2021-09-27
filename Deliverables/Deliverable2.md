@@ -127,40 +127,39 @@ CS-Play makes learning programming for beginners easy and fun like never before.
 **Estimated hours:** 12
 
 **User story 2:** "As a player, I want to look at all the available levels so that I can select one and play"  
-**Priority:** 4   
+**Priority:** 2   
 **Estimated hours:** 4
 
-
 **User story 3:** "As a player, I want to learn a programming language systematically so that I can apply it in diverse situations."    
-**Priority:** 2     
+**Priority:** 7     
 **Estimated hours:** 5
 
 **User story 4:** "As a player, I want to share my levels in the community so that we can learn from each other."    
-**Priority:** 4     
+**Priority:** 8     
 **Estimated hours** 4
 
 **User story 5:** "As a player, I want to be able to see help documentation so that I can refer to it when I encounter problems."   
-**Priority:** 3   
+**Priority:** 4   
 **Estimated hours:** 3
 
 **User story 6:** "As a player, I want to be able to see the results so that I can know whether I have made progress or not."   
-**Priority:** 2   
+**Priority:** 3   
 **Estimated hours:** 4
 
 **User story 7:** "As a player, I want to create my own levels."   
-**Priority:** 3   
+**Priority:** 9   
 **Estimated hours:** 8
 
 **User story 8:** "As a player, I want to type and run my own code on the website."   
-**Priority:** 1   
+**Priority:** 5   
 **Estimated hours:** 8
 
 **User story 9:** "As an player, I want to share this website with my students so they can use it if they are interested in programming."   
-**Priority:** 5   
+**Priority:** 10   
 **Estimated hours:** 5
 
 **User story 10:** "As a player, I want to look at the leaderboard so I can see where I am ranked compared to others."    
-**Priority:** 2   
+**Priority:** 6   
 **Estimated hours:** 6
 
 
