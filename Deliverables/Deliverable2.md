@@ -17,8 +17,6 @@ For beginner programmers and non-programmers who are interested in learning prog
 **Initial value proposition:**  
 CS-Play makes learning programming for beginners easy and fun like never before.
 
-**Initial value proposition:**  
-Easier and happier for programming.
 
 **Consumer segments:**
 * Younger people, 16-25 years old
@@ -73,7 +71,7 @@ Easier and happier for programming.
 
 ### 6.2 Use case descriptions and interface sketch
 **Use case:** Play level  
-**Actor:** User   
+**Actor:** Player   
 **Description:** The user can play the level they select    
 **Preconditions:** The user has an account and looks at the available levels   
 **Postconditions:** The user has played a level   
@@ -82,7 +80,7 @@ Easier and happier for programming.
 2. The user plays the selected level
 
 **Use case:** Create account  
-**Actor:** User     
+**Actor:** Player     
 **Description:** The user must create an account before playing the game  
 **Preconditions:** Know the website CS-Play  
 **Postconditions:** The user has created an account   
@@ -91,7 +89,7 @@ Easier and happier for programming.
 2. When a user have created an account, they can play the game
 
 **Use case:** Edit account details  
-**Actor:** User   
+**Actor:** Player   
 **Description:** The user may be able to change their account details   
 **Preconditions:** User must have created an account and must be signed in    
 **Postconditions:** User has updated their account and each update is reflected in the DB   
@@ -103,7 +101,7 @@ Easier and happier for programming.
 5. Visual confirmation is shown to the user
 
 **Use case:** Create a level  
-**Actor:** User   
+**Actor:** Player   
 **Description:** Any user may be able to create their own level through our level editor  
 **Preconditions:** The user must have an account and must be signed in  
 **Postconditions:** User creates a level, which then becomes available to the community   
@@ -114,7 +112,7 @@ Easier and happier for programming.
 4. The level becomes available to the public through the community tab
 
 **Use case:** See leaderboard   
-**Actor:** User       
+**Actor:** Player       
 **Description:** The user can look at a leaderboard and see how they are ranked compared to other users.  
 **Preconditions:** The user has an account and makes their way to the leaderboard.    
 **Postconditions:** The user knows where they are on the leaderboard compared to other users.     
@@ -124,19 +122,20 @@ Easier and happier for programming.
 3. The user can look through the rest of the leaderboard to see where other users are ranked.
 
 ## 7. User stories
-**User story 1:** "As a user, I want to play a level so I can learn programming"  
+**User story 1:** "As a player, I want to play a level so I can learn programming"  
 **Priority:** 1   
 **Estimated hours:** 12
 
-**User story 2:** "As a user, I want to look at all the available levels so that I can select one and play"  
+**User story 2:** "As a player, I want to look at all the available levels so that I can select one and play"  
 **Priority:** 4   
 **Estimated hours:** 4
 
-**User story 3:** "As a beginner programmer, I want to learn a programming language systematically so that I can apply it in diverse situations."
+
+**User story 3:** "As a player, I want to learn a programming language systematically so that I can apply it in diverse situations."    
 **Priority:** 2     
 **Estimated hours:** 5
 
-**User story 4:** "As a beginner programmer, I want to share my levels in the community so that we can learn from each other."    
+**User story 4:** "As a player, I want to share my levels in the community so that we can learn from each other."    
 **Priority:** 4     
 **Estimated hours** 4
 
@@ -148,7 +147,7 @@ Easier and happier for programming.
 **Priority:** 2   
 **Estimated hours:** 4
 
-**User story 7:** "As a creator, I want to create my own levels."   
+**User story 7:** "As a player, I want to create my own levels."   
 **Priority:** 3   
 **Estimated hours:** 8
 
@@ -156,7 +155,7 @@ Easier and happier for programming.
 **Priority:** 1   
 **Estimated hours:** 8
 
-**User story 9:** "As an educator, I want to share this website with my students so they can use it if they are interested in programming."   
+**User story 9:** "As an player, I want to share this website with my students so they can use it if they are interested in programming."   
 **Priority:** 5   
 **Estimated hours:** 5
 
@@ -168,3 +167,4 @@ Easier and happier for programming.
 ## 8. Issue Tracker
 [Our Trello Board for Issue Tracking](https://trello.com/b/6tZySP6X/cs-play)
 ![Our Updated Issue Tracker](../images/TrelloBoardWithUserStories.PNG)
+
