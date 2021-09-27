@@ -132,7 +132,7 @@ Easier and happier for programming.
 **Priority:** 4   
 **Estimated hours:** 4
 
-**User story 3:** "As a beginner programmer, I want to learn a programming language systematically so that I can apply it in diverse situations."   
+**User story 3:** "As a beginner programmer, I want to learn a programming language systematically so that I can apply it in diverse situations."
 **Priority:** 2     
 **Estimated hours:** 5
 
