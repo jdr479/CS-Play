@@ -167,3 +167,4 @@ Easier and happier for programming.
 
 ## 8. Issue Tracker
 [Our Trello Board for Issue Tracking](https://trello.com/b/6tZySP6X/cs-play)
+![Our Updated Issue Tracker](../images/TrelloBoardWithUserStories.PNG)
