@@ -3,7 +3,7 @@
 *Group 5 - “CS Play”*   
 *Date:* 26 September, 2021
 
-*Group members: Aidan Sullivan, Emma Carlsson, Johnathan Ray, Vincent Machado, Jiasheng Yang, Pengfei Liu* 
+*Group members: Aidan Sullivan, Emma Carlsson, Johnathan Ray, Vincent Machado, Jiasheng Yang, Pengfei Liu*
 
 ## 1. Positioning
 
@@ -17,8 +17,6 @@ For beginner programmers and non-programmers who are interested in learning prog
 **Initial value proposition:**  
 CS-Play makes learning programming for beginners easy and fun like never before.
 
-**Initial value proposition:**  
-Easier and happier for programming.
 
 **Consumer segments:**
 * Younger people, 16-25 years old
@@ -47,7 +45,15 @@ Easier and happier for programming.
 
 
 ## 4. Non-functional requirements
-
+* _Usability_: User Interface must be simple and maneuverable
+* _Usability_: Administrator will be able to view and alter user's account information if requested by the user
+* _Reliability_: User login failures should not happen over a rate of 1 per 100 logins
+* _Data Integrity_: Database must maintain referential and entity integrity
+* _Performance_: The process of submitting code into a game should not exceed 1 second
+* _Performance_: Compiling and executing code on the server should not exceed 10 seconds
+* _Platform Constraint_: Software should operate on website
+* _Compatibility_: Website should be compatible for the following desktop browsers: Chrome, Microsoft Edge, Firefox, Opera
+* _Privacy_: User will have username publicly visible by default, but all other user information can be specified as available by the user
 
 ## 5. MVP
 * The ability to create an account - it is a basic step of almost every games and it can be tested via implementation
@@ -65,7 +71,7 @@ Easier and happier for programming.
 
 ### 6.2 Use case descriptions and interface sketch
 **Use case:** Play level  
-**Actor:** User   
+**Actor:** Player   
 **Description:** The user can play the level they select    
 **Preconditions:** The user has an account and looks at the available levels   
 **Postconditions:** The user has played a level   
@@ -74,56 +80,96 @@ Easier and happier for programming.
 2. The user plays the selected level
 
 **Use case:** Create account  
-**Actor:** User     
+**Actor:** Player     
 **Description:** The user must create an account before playing the game  
 **Preconditions:** Know the website CS-Play  
 **Postconditions:** The user has created an account   
-**Main flow:** 
+**Main flow:**
 1. The user will fill in personal information
 2. When a user have created an account, they can play the game
 
-**Use case:** See leaderboard  
-**Actor:** User     
-**Description:** The user can look at a leaderboard and see how they are ranked compared to other users.
-**Preconditions:** The user has an account and makes their way to the leaderboard.   
-**Postconditions:** The user knows where they are on the leaderboard compared to other users.   
-**Main flow:** 
+**Use case:** Edit account details  
+**Actor:** Player   
+**Description:** The user may be able to change their account details   
+**Preconditions:** User must have created an account and must be signed in    
+**Postconditions:** User has updated their account and each update is reflected in the DB   
+**Main flow:**
+1. The user signs into an account
+2. The user views account details and selects to edit details
+3. The user changes account details through text boxes
+4. The user confirms changes
+5. Visual confirmation is shown to the user
+
+**Use case:** Create a level  
+**Actor:** Player   
+**Description:** Any user may be able to create their own level through our level editor  
+**Preconditions:** The user must have an account and must be signed in  
+**Postconditions:** User creates a level, which then becomes available to the community   
+**Main flow:**
+1. The user selects "Create a level" in the UI
+2. The user is directed to the level editor. If it is their first time creating one, a tutorial is given
+3. Once the level is created, the user submits
+4. The level becomes available to the public through the community tab
+
+**Use case:** See leaderboard   
+**Actor:** Player       
+**Description:** The user can look at a leaderboard and see how they are ranked compared to other users.  
+**Preconditions:** The user has an account and makes their way to the leaderboard.    
+**Postconditions:** The user knows where they are on the leaderboard compared to other users.     
+**Main flow:**
 1. The user makes their way to the leaderboard.
 2. The website shows the user where they are ranked on the leaderboard.
 3. The user can look through the rest of the leaderboard to see where other users are ranked.
 
+**Use case:** Sort/categorize levels   
+**Actor:** Player       
+**Description:** The user can sort levels so that they can choose something they want to learn quickly and conveniently.  
+**Preconditions:** The user could choose different levels.    
+**Postconditions:** The user could study according to different levels.     
+**Main flow:**
+1. The user start from different levels.
+2. The user could review their study results according to different levels that is more like a catalogue.
+
 
 ## 7. User stories
-**User story 1:** "As a user, I want to play a level so I can learn programming"  
+**User story 1:** "As a player, I want to play a level so I can learn programming"  
 **Priority:** 1   
-**Estimated hours:** 12 
+**Estimated hours:** 12
 
-**User story 2:** "As a user, I want to look at all the available levels so that I can select one and play"  
-**Priority:** 4   
+**User story 2:** "As a player, I want to look at all the available levels so that I can select one and play"  
+**Priority:** 2   
 **Estimated hours:** 4
 
-**User story 3:** "As a player, I want to learn a programming language systematically so that I can apply it in diverse situations."   
-**Priority:** 2     
+**User story 3:** "As a player, I want to learn a programming language systematically so that I can apply it in diverse situations."    
+**Priority:** 12     
 **Estimated hours:** 5
 
 **User story 4:** "As a player, I want to share my levels in the community so that we can learn from each other."    
-**Priority:** 4     
+**Priority:** 8     
 **Estimated hours** 4
 
-**User story 5:** "As a player, I want to be able to see help documentation so that I can refer to it when I encounter problems." 
-**Priority:** 3 
+**User story 5:** "As a player, I want to be able to see help documentation so that I can refer to it when I encounter problems."   
+**Priority:** 4   
 **Estimated hours:** 3
 
-**User story 6:** "As a player, I want to be able to see the results so that I can know whether I have made progress or not." 
-**Priority:** 2 
+**User story 6:** "As a player, I want to be able to see the results so that I can know whether I have made progress or not."   
+**Priority:** 3   
 **Estimated hours:** 4
 
-**User story 7:** "As a player, I want to share this website with my students so they can use it if they are interested in programming.
-**Priority:** 5 
+**User story 7:** "As a player, I want to create my own levels."   
+**Priority:** 9   
+**Estimated hours:** 8
+
+**User story 8:** "As a player, I want to type and run my own code on the website."   
+**Priority:** 5   
+**Estimated hours:** 8
+
+**User story 9:** "As an player, I want to share this website with my students so they can use it if they are interested in programming."   
+**Priority:** 10   
 **Estimated hours:** 5
 
-**User story 8:** "As a player, I want to look at the leaderboard so I can see where I am ranked compared to others.
-**Priority:** 2 
+**User story 10:** "As a player, I want to look at the leaderboard so I can see where I am ranked compared to others."    
+**Priority:** 6   
 **Estimated hours:** 6
 
 **User story 9:** "As an player, I want to share this website with my students so they can use it if they are interested in programming."
@@ -134,12 +180,16 @@ Easier and happier for programming.
 **Priority:** 6
 **Estimated hours:** 6
 
-**User story 11:** "As a player, I want to edit my profile so that I can update any personal information if need be."
-**Priority:** 7
+**User story 11:** "As a player, I want to edit my profile so that I can update any personal information if need be."   
+**Priority:** 11    
 **Estimated hours:** 2
 
-**User story 12:** "As a player, I want to sort and categorize the levels so I can easily find levels that cover certain topics."
-**Priority:** 8
+**User story 12:** "As a player, I want to sort and categorize the levels so I can easily find levels that cover certain topics."     
+**Priority:** 7   
 **Estimated hours:** 6
 
+
 ## 8. Issue Tracker
+[Our Trello Board for Issue Tracking](https://trello.com/b/6tZySP6X/cs-play)
+![Our Updated Issue Tracker](../images/TrelloBoardWithUserStories.PNG)
+
