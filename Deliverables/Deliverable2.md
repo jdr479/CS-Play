@@ -91,10 +91,10 @@ Easier and happier for programming.
 2. When a user have created an account, they can play the game
 
 **Use case:** Edit account details  
-**Actor:** User
-**Description:** The user may be able to change their account details
-**Preconditions:** User must have created an account and must be signed in  
-**Postconditions:** User has updated their account and each update is reflected in the DB
+**Actor:** User   
+**Description:** The user may be able to change their account details   
+**Preconditions:** User must have created an account and must be signed in    
+**Postconditions:** User has updated their account and each update is reflected in the DB   
 **Main flow:**
 1. The user signs into an account
 2. The user views account details and selects to edit details
@@ -103,10 +103,10 @@ Easier and happier for programming.
 5. Visual confirmation is shown to the user
 
 **Use case:** Create a level  
-**Actor:** User
+**Actor:** User   
 **Description:** Any user may be able to create their own level through our level editor  
 **Preconditions:** The user must have an account and must be signed in  
-**Postconditions:** User creates a level, which then becomes available to the community
+**Postconditions:** User creates a level, which then becomes available to the community   
 **Main flow:**
 1. The user selects "Create a level" in the UI
 2. The user is directed to the level editor. If it is their first time creating one, a tutorial is given
@@ -140,21 +140,29 @@ Easier and happier for programming.
 **Priority:** 4     
 **Estimated hours** 4
 
-**User story 5:** "As a player, I want to be able to see help documentation so that I can refer to it when I encounter problems."
-**Priority:** 3
+**User story 5:** "As a player, I want to be able to see help documentation so that I can refer to it when I encounter problems."   
+**Priority:** 3   
 **Estimated hours:** 3
 
-**User story 6:** "As a player, I want to be able to see the results so that I can know whether I have made progress or not."
-**Priority:** 2
+**User story 6:** "As a player, I want to be able to see the results so that I can know whether I have made progress or not."   
+**Priority:** 2   
 **Estimated hours:** 4
 
-**User story 7:** "As a creator, I want to create my own levels"
-**Priority:** 3
+**User story 7:** "As a creator, I want to create my own levels."   
+**Priority:** 3   
 **Estimated hours:** 8
 
-**User story 8:** "As a player, I want to type and run my own code on the website"
-**Priority:** 1
+**User story 8:** "As a player, I want to type and run my own code on the website."   
+**Priority:** 1   
 **Estimated hours:** 8
+
+**User story 9:** "As an educator, I want to share this website with my students so they can use it if they are interested in programming."   
+**Priority:** 5   
+**Estimated hours:** 5
+
+**User story 10:** "As a player, I want to look at the leaderboard so I can see where I am ranked compared to others."    
+**Priority:** 2   
+**Estimated hours:** 6
 
 
 ## 8. Issue Tracker
