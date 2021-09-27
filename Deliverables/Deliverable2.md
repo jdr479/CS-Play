@@ -121,6 +121,16 @@ CS-Play makes learning programming for beginners easy and fun like never before.
 2. The website shows the user where they are ranked on the leaderboard.
 3. The user can look through the rest of the leaderboard to see where other users are ranked.
 
+**Use case:** Sort/categorize levels   
+**Actor:** Player       
+**Description:** The user can sort levels so that they can choose something they want to learn quickly and conveniently.
+**Preconditions:** The user could choose different levels.    
+**Postconditions:** The user could study according to different levels.     
+**Main flow:**
+1. The user start from different levels.
+2. The user could review their study results according to different levels that is more like a catalogue.
+
+
 ## 7. User stories
 **User story 1:** "As a player, I want to play a level so I can learn programming"  
 **Priority:** 1   
