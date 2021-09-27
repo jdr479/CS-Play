@@ -164,20 +164,12 @@ CS-Play makes learning programming for beginners easy and fun like never before.
 **Priority:** 5   
 **Estimated hours:** 8
 
-**User story 9:** "As an player, I want to share this website with my students so they can use it if they are interested in programming."   
+**User story 9:** "As an player, I want to share this website with my students so they can use it if they are interested in programming."     
 **Priority:** 10   
 **Estimated hours:** 5
 
 **User story 10:** "As a player, I want to look at the leaderboard so I can see where I am ranked compared to others."    
 **Priority:** 6   
-**Estimated hours:** 6
-
-**User story 9:** "As an player, I want to share this website with my students so they can use it if they are interested in programming."
-**Priority:** 10
-**Estimated hours:** 5
-
-**User story 10:** "As a player, I want to look at the leaderboard so I can see where I am ranked compared to others."
-**Priority:** 6
 **Estimated hours:** 6
 
 **User story 11:** "As a player, I want to edit my profile so that I can update any personal information if need be."   
