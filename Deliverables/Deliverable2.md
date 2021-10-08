@@ -121,48 +121,67 @@ CS-Play makes learning programming for beginners easy and fun like never before.
 2. The website shows the user where they are ranked on the leaderboard.
 3. The user can look through the rest of the leaderboard to see where other users are ranked.
 
+**Use case:** Sort/categorize levels   
+**Actor:** Player       
+**Description:** The user can sort levels so that they can choose something they want to learn quickly and conveniently.  
+**Preconditions:** The user could choose different levels.    
+**Postconditions:** The user could study according to different levels.     
+**Main flow:**
+1. The user start from different levels.
+2. The user could review their study results according to different levels that is more like a catalogue.
+
+
 ## 7. User stories
 **User story 1:** "As a player, I want to play a level so I can learn programming"  
 **Priority:** 1   
 **Estimated hours:** 12
 
 **User story 2:** "As a player, I want to look at all the available levels so that I can select one and play"  
-**Priority:** 4   
+**Priority:** 2   
 **Estimated hours:** 4
 
-**User story 3:** "As a player, I want to learn a programming language systematically so that I can apply it in diverse situations."   
-**Priority:** 2     
+**User story 3:** "As a player, I want to learn a programming language systematically so that I can apply it in diverse situations."    
+**Priority:** 12     
 **Estimated hours:** 5
 
 **User story 4:** "As a player, I want to share my levels in the community so that we can learn from each other."    
-**Priority:** 4     
+**Priority:** 8     
 **Estimated hours** 4
 
 **User story 5:** "As a player, I want to be able to see help documentation so that I can refer to it when I encounter problems."   
-**Priority:** 3   
+**Priority:** 4   
 **Estimated hours:** 3
 
 **User story 6:** "As a player, I want to be able to see the results so that I can know whether I have made progress or not."   
-**Priority:** 2   
+**Priority:** 3   
 **Estimated hours:** 4
 
 **User story 7:** "As a player, I want to create my own levels."   
-**Priority:** 3   
+**Priority:** 9   
 **Estimated hours:** 8
 
 **User story 8:** "As a player, I want to type and run my own code on the website."   
-**Priority:** 1   
+**Priority:** 5   
 **Estimated hours:** 8
 
-**User story 9:** "As an player, I want to share this website with my students so they can use it if they are interested in programming."   
-**Priority:** 5   
+**User story 9:** "As an player, I want to share this website with my students so they can use it if they are interested in programming."     
+**Priority:** 10   
 **Estimated hours:** 5
 
 **User story 10:** "As a player, I want to look at the leaderboard so I can see where I am ranked compared to others."    
-**Priority:** 2   
+**Priority:** 6   
+**Estimated hours:** 6
+
+**User story 11:** "As a player, I want to edit my profile so that I can update any personal information if need be."   
+**Priority:** 11    
+**Estimated hours:** 2
+
+**User story 12:** "As a player, I want to sort and categorize the levels so I can easily find levels that cover certain topics."     
+**Priority:** 7   
 **Estimated hours:** 6
 
 
 ## 8. Issue Tracker
 [Our Trello Board for Issue Tracking](https://trello.com/b/6tZySP6X/cs-play)
-![Screenshot of our Trello board](../images/TrelloScreenshot.png)
+![Our Updated Issue Tracker](../images/TrelloBoardWithUserStories.PNG)
+
