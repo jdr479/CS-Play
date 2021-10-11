@@ -5,7 +5,9 @@
 *Group members: Aidan Sullivan, Emma Carlsson, Johnathan Ray, Vincent Machado, Jiasheng Yang, Pengfei Liu*    
 
 ## 1. System Description
+
 ### provide a brief textual description of the system
+
 **The problem statement:**
 It is a common phenomenon that most people think programming is hard and boring to learn. In addition, the lack of engagement from learning programming affects beginner programmers and non-programmers. These factors make people lack interest in programming.
 
@@ -16,20 +18,20 @@ For beginner and non-programmers who are interested in learning programming, CS-
 CS-Play makes learning programming for beginners easy and fun like never before.
 
 **Use UML, adequately**
-*Register info: name, age, sex, address, email
-*User: players, administrators, website maintainers
-*Level: level1,2,3,4,5
-*Action: move left, move right, move up and move down
-*Display: display the playing result
-*HelpBehavior: display the right action
-*Map: width, hight; getKey, victoryGraph, remove
-*EndGame: restart, thisEnd
-*HistoryRecord: passlevel, unpasslevel
-*Database: add info, delete info, revise info, search info 
+* Register info: name, age, sex, address, email
+* User: players, administrators, website maintainers
+* Level: level1,2,3,4,5
+* Action: move left, move right, move up and move down
+* Display: display the playing result
+* HelpBehavior: display the right action
+* Map: width, hight; getKey, victoryGraph, remove
+* EndGame: restart, thisEnd
+* HistoryRecord: passlevel, unpasslevel
+* Database: add info, delete info, revise info, search info 
 
 **Relational database systems**
-*MySQL for database
-*Panda for data analyse
+* MySQL for database
+* Panda for data analyse
 
 
 
