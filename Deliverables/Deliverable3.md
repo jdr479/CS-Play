@@ -8,3 +8,4 @@
 
 
 ## 2. Model
+![UML Diagram](../images/UML_Diagram.png)
