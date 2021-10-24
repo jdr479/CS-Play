@@ -9,7 +9,7 @@ CS-Play is an open-source website that teaches somebody who wants to learn  prog
 
 CS-Play is still in early development. The website offers more interactive and game elements as the User Interface, which will give CS-Play an edge to emphasize our value proposition so that attract more new programmers and motivate their interest in programming.
 
-Project repo: [https://github.com/jdr479/CS-Play](https://github.com/jdr479/CS-Play)
+Project repo: [https://github.com/jdr479/CS-Play](https://github.com/jdr479/CS-Play)    
 Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs-play)
 
 ## 2. Implemented requirements
@@ -22,7 +22,11 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 
 
 ## 5. Learning/training
+* HTML, CSS, JavaScript     
+Most of the group had previous experience with web development from courses taken in school. To brush up on our skills and learn more about the specific knowledge we needed the website W3Schools and other online tutorials were used.     
 
+* SQL, PHP      
+A database course taken previously and W3Schools provided us with the necessary knowledge for database implementation.    
 
 ## 6. Deployment
 For web hosting, we used AWS. AWS has a good performance in scalability because it provides us with an easy option to upgrade to a better plan. And we will use Django as our web framework because Django can go well with python and it supports all the libraries that are supported by python programs. Also, Django is a relatively secure web framework. And we will use mySQL as our database management system.  
