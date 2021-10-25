@@ -32,7 +32,7 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 **Approved by:** Pengfei Liu
 
 **Requirement:** As a player, I want to see more entertainment elements so that I will be interested in programming. 
-**Issue:** [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-see-more-entertainment-elements-so-that-i-will-be-interested-in-programming)   
+**Issue:**  [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-see-more-entertainment-elements-so-that-i-will-be-interested-in-programming)
 **Pull Request:** [https://github.com/jdr479/CS-Play/pull/70](https://github.com/jdr479/CS-Play/pull/70)  
 **Implemented by:** Jiasheng  
 **Approved by:** Pengfei Liu
