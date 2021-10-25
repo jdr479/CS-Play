@@ -87,7 +87,9 @@ We hope the user could choose the different levels, like SuperMary adventure, th
 
 
 ## 10. Lessons learned
+Through our initial developments in the project, we have learned more about how to properly implement code. After completing our project, we learned that having an organized project can be just as important as having a functioning one. During our development, we found it difficult to manage our code when we were working between each others' files. As a result, our project didn't work properly all of the time. This issue is something that we will work on in future developments. On top of this, we also learned that communication between developers is important when we sometimes use each others' code and implementations. In general, our group did well with communication when we finished or changed our implementations.
 
+This version of our website is heavily diluted from what we consider to be a final produdct, so we have much to work on in the future. As mentioned before, We will first need to organize our existing code to make it more cohesive. At the moment, our project has a lot of spaghetti code, so it would be useful to have that ironed out before we continue with further developments. We also need to finish implementing the rest of our lower priority user stories, which will be related to users creating and sharing their own levels. Time constraints during our initial implementations led us to leave this implementation for later. We will also be finishing up more levels for the user to interact with, as the one level we created for this implementation was a test.
 
 ## 11.Demo
 
