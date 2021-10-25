@@ -61,13 +61,19 @@ For web hosting, we used AWS. AWS has a good performance in scalability because 
 During our interviews and researches about relevant websites, like Datacamp (https://www.datacamp.com), Leetcode (https://leetcode.com), and other teaching programming website, we decided to use separate the “home page” and “login page”.
 
 Home page:
+This is the frame of the home page:
+![home_page_frame](../images/home_page_frame.png)
+The final home page is still building:
+![home_page_modify](../images/home_page_modify.png)
 There are some welcome messages and introductions about CS-play; we use the gamepad as our background, emphasizing that learning programming by playing games. Then there is the button “START”. When you click the “START” button, it will go to another page, the login page. This UI design is more like a game.
 There is also the course information on the home page.
 
 Login page:
+![login_page_description](../images/login_page_description.png)
 We try to present a simple UI as our login page. Therefore, there are the logo, register link, and login division on the login page. We use “go” as the login button rather than the “login”; it is the game element.
 
 Chosen level page:
+![level_choose](../images/level_choose.png)
 We hope the user could choose the different levels, like SuperMary adventure, the block could move around, and each plate represents different levels.
 
 
