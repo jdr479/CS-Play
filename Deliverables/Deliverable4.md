@@ -43,6 +43,12 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 **Implemented by:** Jiasheng  
 **Approved by:** Pengfei Liu
 
+**Requirement:** As a user, I want to play a level so I can learn programming.
+**Issue:** [Trello link](https://trello.com/c/VGe650pi/21-as-a-user-i-want-to-play-a-level-so-i-can-learn-programming)
+**Pull Request:** [https://github.com/jdr479/CS-Play/pull/69](https://github.com/jdr479/CS-Play/pull/69)
+**Implemented by:** Johnathan Ray & Emma Carlsson 
+**Approved by:** Pengfei Liu
+
 ## 3. Tests
 For our testing, we decided to use Mocha for any JavaScript code that we need tested.
 
@@ -69,27 +75,6 @@ A database course taken previously and W3Schools provided us with the necessary 
 For web hosting, we used AWS. AWS has a good performance in scalability because it provides us with an easy option to upgrade to a better plan. And we will use Django as our web framework because Django can go well with python and it supports all the libraries that are supported by python programs. Also, Django is a relatively secure web framework. And we will use mySQL as our database management system.  
 
 ## 7. Licensing
-MIT License
-
-Copyright (c) 2021 Johnathan Ray, Aidan Sullivan, Emma Carlsson, Jiasheng Yang, Pengfei Liu, & Vincent Machado
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 
 ## 8. Readme File
