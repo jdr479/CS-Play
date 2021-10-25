@@ -44,6 +44,7 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 **Approved by:** Pengfei Liu
 
 ## 3. Tests
+For our testing, we decided to use Mocha for any JavaScript code that we need tested.
 
 
 ## 4. Adopted technologies
