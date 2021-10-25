@@ -25,7 +25,7 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 * HTML, CSS, JavaScript     
 Most of the group had previous experience with web development from courses taken in school. To brush up on our skills and learn more about the specific knowledge we needed the website W3Schools and other online tutorials were used.     
 
-* SQL, PHP      
+* MySQL, PHP      
 A database course taken previously and W3Schools provided us with the necessary knowledge for database implementation.    
 
 ## 6. Deployment
@@ -35,7 +35,10 @@ For web hosting, we used AWS. AWS has a good performance in scalability because 
 
 
 ## 8. Readme File
-
+* [README](https://github.com/jdr479/CS-Play/blob/main/README.md)  
+* [CONTRIBUTING](https://github.com/jdr479/CS-Play/blob/main/CONTRIBUTING.md)  
+* [CODE_OF_CONDUCT](https://github.com/jdr479/CS-Play/blob/main/CODE_OF-CONDUCT.md)  
+* [LICENSE](https://github.com/jdr479/CS-Play/blob/main/LICENSE.md)  
 
 ## 9. Look & feel
 During our interviews and researches about relevant websites, like Datacamp (https://www.datacamp.com), Leetcode (https://leetcode.com), and other teaching programming website, we decided to use separate the “home page” and “login page”.
