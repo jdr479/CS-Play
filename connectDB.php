@@ -1,13 +1,12 @@
 <?php
 
     // Write the following variables to be able to connect to database
-    $servername = "";
-    $username = "";
-    $password = "";
-    $db = "";
+    $servername = "csplay.c6gbous84apf.us-west-1.rds.amazonaws.com";
+    $username = "admin";
+    $password = "vnJkXxF1DHumFMIpvDts";
 
     // Create connection
-    $conn = new mysqli($servername, $username, $password, $db);
+    $conn = new mysqli($servername, $username, $password);
 
     // Check connection
     if ($conn->connect_error) {

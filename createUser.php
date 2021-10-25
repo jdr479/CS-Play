@@ -16,7 +16,7 @@
         $sql = "";  // Paste SQL query to insert information for a new account here
 
         if ($conn->query($sql) == TRUE) {
-            //header("Location: http://AddressIDontKnowYet/login.php");
+            //header("Location: http://johnathanray.com/cs-play/login.php");
             echo "New record created successfully";
         } else {
             $message = "E-mail unavailable.";
