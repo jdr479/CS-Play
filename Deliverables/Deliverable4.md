@@ -25,18 +25,17 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 **Implemented by:** Emma Carlsson   
 **Approved by:** Pengfei Liu    
 
+**Requirement:** As a player, I want to create an account so that I'll be able to use the website.   
+**Issue:** [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-create-an-account-so-that-ill-be-able-to-use-the-website)   
+**Pull Request:** [https://github.com/jdr479/CS-Play/pull/39](https://github.com/jdr479/CS-Play/pull/39)    
+**Implemented by:** Emma Carlsson   
+**Approved by:** Pengfei Liu
 
 **Requirement:** As a player, I want to see more entertainment elements so that I will be interested in programming. 
-**Issue:** [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-see-more-entertainment-elements-so-that-i-will-be-interested-in-programming)     
-**Pull Request:** [https://github.com/jdr479/CS-Play/pull/65](https://github.com/jdr479/CS-Play/pull/69)    
-**Implemented by:** Jiasheng
-**Approved by:** Pengfei Liu    
-
-**Requirement:** As a user, I want to learn the course information so that I know how to program.  
-**Issue:** [Trello link](https://trello.com/c/btbAb94k/42-as-a-user-i-want-to-learn-the-course-information-so-that-i-know-how-to-program)   
-**Pull Request:** [https://github.com/jdr479/CS-Play/pull/62](https://github.com/jdr479/CS-Play/pull/62)  
+**Issue:** [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-see-more-entertainment-elements-so-that-i-will-be-interested-in-programming)   
+**Pull Request:** [https://github.com/jdr479/CS-Play/pull/70](https://github.com/jdr479/CS-Play/pull/70)  
 **Implemented by:** Jiasheng  
-**Approved by:** Pengfei Liu 
+**Approved by:** Pengfei Liu
 
 **Requirement:** As a player, I want to see a user-friendly UI interface so that I may have interest in exploring it.  
 **Issue:** [Trello link](https://trello.com/c/3KSeDVr9/43-as-a-player-i-want-to-see-a-user-friendly-ui-interface-so-that-i-may-have-interest-in-exploring-it)    
@@ -82,6 +81,7 @@ For web hosting, we used AWS. AWS has a good performance in scalability because 
 During our interviews and researches about relevant websites, like Datacamp (https://www.datacamp.com), Leetcode (https://leetcode.com), and other teaching programming website, we decided to use separate the “home page” and “login page”.
 
 Home page:
+
 This is the frame of the home page:
 ![home_page_frame](../images/home_page_frame.png)
 The final home page is still building:
@@ -90,10 +90,12 @@ There are some welcome messages and introductions about CS-play; we use the game
 There is also the course information on the home page.
 
 Login page:
+
 ![login_page_description](../images/login_page_description.png)
 We try to present a simple UI as our login page. Therefore, there are the logo, register link, and login division on the login page. We use “go” as the login button rather than the “login”; it is the game element.
 
 Chosen level page:
+
 ![level_choose](../images/level_choose.png)
 We hope the user could choose the different levels, like SuperMary adventure, the block could move around, and each plate represents different levels.
 
