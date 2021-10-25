@@ -13,24 +13,23 @@ Project repo: [https://github.com/jdr479/CS-Play](https://github.com/jdr479/CS-P
 Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs-play)
 
 ## 2. Implemented requirements
-**Requirement:** As a player, I want to log into my account so that I can use CS-Play.  
+**Requirement:** As a player, I want to log into my account so that I can use CS-Play   
 **Issue:** [Trello link](https://trello.com/c/cph7gTzv/39-as-a-player-i-want-to-log-into-my-account-so-that-i-can-use-cs-play)    
 **Pull Request:** [https://github.com/jdr479/CS-Play/pull/53](https://github.com/jdr479/CS-Play/pull/53)    
 **Implemented by:** Emma Carlsson   
 **Approved by:** Pengfei Liu    
 
-**Requirement:** As a player, I want to create an account so that I'll be able to use the website.   
+**Requirement:** As a player, I want to create an account so that I'll be able to use the website   
 **Issue:** [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-create-an-account-so-that-ill-be-able-to-use-the-website)   
 **Pull Request:** [https://github.com/jdr479/CS-Play/pull/39](https://github.com/jdr479/CS-Play/pull/39)    
 **Implemented by:** Emma Carlsson   
 **Approved by:** Pengfei Liu    
 
-**Requirement:** As a user, I want to learn the course information so that I know how to program. 
-**Issue:**  [Trello link](https://trello.com/c/btbAb94k/42-as-a-user-i-want-to-learn-the-course-information-so-that-i-know-how-to-program)
-**Pull Request:** [https://github.com/jdr479/CS-Play/pull/62](https://github.com/jdr479/CS-Play/pull/62)
-**Implemented by:** Jiasheng  
-**Approved by:** Pengfei Liu
-
+**Requirement:**  
+**Issue:**  
+**Pull Request:**   
+**Implemented by:**   
+**Approved by:**  
 
 
 ## 3. Tests
