@@ -25,24 +25,23 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 **Implemented by:** Emma Carlsson   
 **Approved by:** Pengfei Liu    
 
-**Requirement:** As a player, I want to create an account so that I'll be able to use the website.   
-**Issue:** [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-create-an-account-so-that-ill-be-able-to-use-the-website)   
-**Pull Request:** [https://github.com/jdr479/CS-Play/pull/39](https://github.com/jdr479/CS-Play/pull/39)    
-**Implemented by:** Emma Carlsson   
-**Approved by:** Pengfei Liu
-
-**Requirement:** As a player, I want to see more entertainment elements so that I will be interested in programming. 
-**Issue:**  [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-see-more-entertainment-elements-so-that-i-will-be-interested-in-programming)
-**Pull Request:** [https://github.com/jdr479/CS-Play/pull/70](https://github.com/jdr479/CS-Play/pull/70)  
-**Implemented by:** Jiasheng  
+**Requirement:** As a user, I want to learn the course information so that I know how to program. 
+**Issue:** [Trello link](https://trello.com/c/btbAb94k/42-as-a-user-i-want-to-learn-the-course-information-so-that-i-know-how-to-program)   
+**Pull Request:** [https://github.com/jdr479/CS-Play/pull/72](https://github.com/jdr479/CS-Play/pull/72)    
+**Implemented by:** Jiasheng   
 **Approved by:** Pengfei Liu
 
 **Requirement:** As a player, I want to see a user-friendly UI interface so that I may have interest in exploring it.  
 **Issue:** [Trello link](https://trello.com/c/3KSeDVr9/43-as-a-player-i-want-to-see-a-user-friendly-ui-interface-so-that-i-may-have-interest-in-exploring-it)    
 **Pull Request:** [https://github.com/jdr479/CS-Play/pull/53](https://github.com/jdr479/CS-Play/pull/68)    
 **Implemented by:** Pengfei Liu  
-**Approved by:** Pengfei Liu      
+**Approved by:** Pengfei Liu   
 
+**Requirement:** As a player, I want to see more entertainment elements so that I will be interested in programming.  
+**Issue:** [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-see-more-entertainment-elements-so-that-i-will-be-interested-in-programming)    
+**Pull Request:** [https://github.com/jdr479/CS-Play/pull/72](https://github.com/jdr479/CS-Play/pull/72)    
+**Implemented by:** Jiasheng 
+**Approved by:** Pengfei Liu
 
 ## 3. Tests
 
