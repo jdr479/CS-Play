@@ -25,6 +25,13 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 **Implemented by:** Emma Carlsson   
 **Approved by:** Pengfei Liu    
 
+
+**Requirement:** As a player, I want to see more entertainment elements so that I will be interested in programming.
+**Issue:** [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-see-more-entertainment-elements-so-that-i-will-be-interested-in-programming)  
+**Pull Request:** [https://github.com/jdr479/CS-Play/pull/65](https://github.com/jdr479/CS-Play/pull/65) 
+**Implemented by:** Jiasheng 
+**Approved by:** Pengfei Liu
+
 **Requirement:** As a user, I want to learn the course information so that I know how to program.  
 **Issue:** [Trello link](https://trello.com/c/btbAb94k/42-as-a-user-i-want-to-learn-the-course-information-so-that-i-know-how-to-program)   
 **Pull Request:** [https://github.com/jdr479/CS-Play/pull/62](https://github.com/jdr479/CS-Play/pull/62)  
