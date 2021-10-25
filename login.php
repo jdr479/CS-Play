@@ -18,11 +18,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
     $email = $_POST['email'];
     $pwd = $_POST['pwd'];
 
-    $sql = "";  // Paste SQL query to retrive account information to check password
+    $sql = "SELECT id, pass FROM user WHERE email =  '$email' ";  // Paste SQL query to retrive account information to check password
     $result = $conn->query($sql);
 
     $row = $result->fetch_assoc();
-    $id = $row['ID']; // Change ID to whatever the row is called in our table
+    $id = $row['id'];
 
 
     if ($conn->query($sql) == TRUE) {
@@ -31,7 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
         echo "Error: " . $sql . "<br>" . $conn->error;
     }
 
-    if($pwd != $row['Password']){ //Change Password to whatever the row is called in our table
+    if($pwd != $row['pass']){
         header("Location: http://johnathanray.com/cs-play/login.php");
         exit();
     }
