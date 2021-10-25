@@ -28,7 +28,7 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 **Requirement:** As a user, I want to learn the course information so that I know how to program. 
 **Issue:** [Trello link](https://trello.com/c/btbAb94k/42-as-a-user-i-want-to-learn-the-course-information-so-that-i-know-how-to-program) 
 **Pull Request:** [https://github.com/jdr479/CS-Play/pull/72](https://github.com/jdr479/CS-Play/pull/72)    
-**Implemented by:** Jiasheng
+**Implemented by:** Jiasheng           
 **Approved by:** Pengfei Liu
 
 **Requirement:** As a player, I want to see a user-friendly UI interface so that I may have interest in exploring it.  
@@ -40,7 +40,7 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 **Requirement:** As a player, I want to see more entertainment elements so that I will be interested in programming.
 **Issue:** [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-see-more-entertainment-elements-so-that-i-will-be-interested-in-programming)   
 **Pull Request:** [https://github.com/jdr479/CS-Play/pull/72](https://github.com/jdr479/CS-Play/pull/72)   
-**Implemented by:** Jiasheng
+**Implemented by:** Jiasheng  
 **Approved by:** Pengfei Liu
 
 ## 3. Tests
