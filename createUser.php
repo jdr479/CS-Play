@@ -8,12 +8,13 @@
     include "connectDB.php";
     if ($_SERVER["REQUEST_METHOD"] == "POST"){
         $firstName = $_POST['firstName'];
-        $lastNname = $_POST['lastName'];
+        $lastName = $_POST['lastName'];
         $email = $_POST['email'];
         $pwd = $_POST['pwd'];
 
 
-        $sql = "";  // Paste SQL query to insert information for a new account here
+        $sql = "INSERT INTO `user`(`fname`, `lname`, `email`, `pass`)
+        VALUES ('$firstName','$lastName','$email','$pwd')";
 
         if ($conn->query($sql) == TRUE) {
             //header("Location: http://johnathanray.com/cs-play/login.php");
