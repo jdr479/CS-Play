@@ -36,6 +36,14 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 
 
 ## 4. Adopted technologies
+* VSCode
+VSCode is an open-source code editor developed by Microsoft. The software supports syntax highlighting, automatic code completion(also known as IntelliSense), code reconstruction and has built-in command-line tools and git version control system, which is a powerful tool for us to use.
+
+* MySQL
+MySQL is a relational database management system developed by MySQL AB company in Sweden, which is a product of Oracle. MySQL is one of the most popular relational database management systems. In terms of web application, MySQL is one of the best RDBMS (relational database management system) application software. CS-Play, as a web production, using mySQL would be a good choice
+
+* SurveyJS
+Surveyjs is a complete, fully customizable and extensible survey and form builder. Allow users to use our JavaScript library to integrate the survey / form builder into the user's web application with the required functionality. It has good performance in flexibility, reliability and documentation.
 
 
 ## 5. Learning/training
