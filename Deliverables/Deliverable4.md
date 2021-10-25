@@ -39,28 +39,28 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 
 **Requirement:** As a player, I want to see more entertainment elements so that I will be interested in programming.    
 **Issue:** [Trello link](https://trello.com/c/gPKmxynQ/40-as-a-player-i-want-to-see-more-entertainment-elements-so-that-i-will-be-interested-in-programming)   
-**Pull Request:** [https://github.com/jdr479/CS-Play/pull/72](https://github.com/jdr479/CS-Play/pull/72)   
+**Pull Request:** [https://github.com/jdr479/CS-Play/pull/72](https://github.com/jdr479/CS-Play/pull/72)    
 **Implemented by:** Jiasheng  
-**Approved by:** Pengfei Liu
+**Approved by:** Pengfei Liu  
 
-**Requirement:** As a user, I want to play a level so I can learn programming.
-**Issue:** [Trello link](https://trello.com/c/VGe650pi/21-as-a-user-i-want-to-play-a-level-so-i-can-learn-programming)
-**Pull Request:** [https://github.com/jdr479/CS-Play/pull/69](https://github.com/jdr479/CS-Play/pull/69)
-**Implemented by:** Johnathan Ray & Emma Carlsson 
-**Approved by:** Pengfei Liu
+**Requirement:** As a user, I want to play a level so I can learn programming.    
+**Issue:** [Trello link](https://trello.com/c/VGe650pi/21-as-a-user-i-want-to-play-a-level-so-i-can-learn-programming)    
+**Pull Request:** [https://github.com/jdr479/CS-Play/pull/69](https://github.com/jdr479/CS-Play/pull/69)    
+**Implemented by:** Johnathan Ray & Emma Carlsson     
+**Approved by:** Pengfei Liu    
 
 ## 3. Tests
 For our testing, we decided to use Mocha for any JavaScript code that we need tested.
 
 
 ## 4. Adopted technologies
-* VSCode
+* VSCode  
 VSCode is an open-source code editor developed by Microsoft. The software supports syntax highlighting, automatic code completion(also known as IntelliSense), code reconstruction and has built-in command-line tools and git version control system, which is a powerful tool for us to use.
 
-* MySQL
+* MySQL 
 MySQL is a relational database management system developed by MySQL AB company in Sweden, which is a product of Oracle. MySQL is one of the most popular relational database management systems. In terms of web application, MySQL is one of the best RDBMS (relational database management system) application software. CS-Play, as a web production, using mySQL would be a good choice
 
-* SurveyJS
+* SurveyJS  
 Surveyjs is a complete, fully customizable and extensible survey and form builder. Allow users to use our JavaScript library to integrate the survey / form builder into the user's web application with the required functionality. It has good performance in flexibility, reliability and documentation.
 
 
@@ -75,7 +75,7 @@ A database course taken previously and W3Schools provided us with the necessary 
 For web hosting, we used AWS. AWS has a good performance in scalability because it provides us with an easy option to upgrade to a better plan. And we will use Django as our web framework because Django can go well with python and it supports all the libraries that are supported by python programs. Also, Django is a relatively secure web framework. And we will use mySQL as our database management system.  
 
 ## 7. Licensing
-
+[https://github.com/jdr479/CS-Play/blob/main/LICENSE.md](https://github.com/jdr479/CS-Play/blob/main/LICENSE.md)
 
 ## 8. Readme File
 * [README](https://github.com/jdr479/CS-Play/blob/main/README.md)  
