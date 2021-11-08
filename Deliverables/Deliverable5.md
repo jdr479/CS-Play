@@ -39,5 +39,13 @@ Here is the link for the classes for Design Pattern 2
 
 
 ## 6. Design Principles
+A class that has the single responsibility is the Assets class. It's job is to store different information about an asset like position and sprite.
 
+Open/Close principle is followed by the User class. It is open for extension but not modification by the login class.
+
+Additionally, the Liskov Substitution Principle is satisfied in the way the classes that relate to the User class follow a hierarchy that does not allow for a violation in class operations. For instance, if one wanted to update the user's score, they could do that in the User class, and vice versa.
+
+The Interface Segregation Principle is followed thanks to the fact that certain users, such as the player, are unable to interact with interfaces that are irrelevant to them, such as the Game State. However, other users, such as the level creator, are able to interact with such interfaces.
+
+Finally, the website design satisfies the Dependency Inversion Principle whenever the user is using the Executer; instead of the Executer depending solely on the Interpreter class, it depends on both the Interpreter class and the interface it is connected to.
 
