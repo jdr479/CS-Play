@@ -16,8 +16,8 @@ The website consists of a front-end to handle most of the visible parts, a back-
 ![Class Diagram of our system](deliverable_images/CompleteClassDiagram.png)
 
 ## 4. Sequence diagram
-![Image of sequence diagram](deliverable_images/D5_Sequence_Diagram.png)    
-**Use case**: As a creator, I want to create my own levels
+![Image of sequence diagram](https://github.com/jdr479/CS-Play/tree/main/Deliverables/deliverable_images/D5_Sequence_Diagram.png)   
+**Use case**: As a player, I want to be able to see the results so that I can know whether I made progress or not.
 
 ## 5. Design Patterns
 Design Pattern 1:(Behavior) Strategy -update X position and Y position from the parent class Position
