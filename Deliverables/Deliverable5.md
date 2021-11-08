@@ -9,7 +9,8 @@ For beginner and non-programmers who are interested in learning programming, CS-
 We want our users to be able to create their own account, play levels created by other users, show and tell a user about the varying topics we want to teach them, provide some measure of success to the user, provide assistance to those who struggle with certain topics, provide visual feedback for how well someone is doing, allow users t ocreate their own levels, and show a "leaderboard" that indicates a user's degree of success compared to others.
 
 ## 2. Architecture
-
+![Package Diagram](deliverable_images/CSPlay_PackageDiagram.drawio.png)
+The website consists of a front-end to handle most of the visible parts, a back-end to handle client-server interaction and the code for the levels/games. The front-end can be divided into categories like startpage, login and account. We designed it like this so that each part would be clearly defined and separated from the rest. This way the developers can focus on one part at a time. 
 
 ## 3. Class diagram
 
