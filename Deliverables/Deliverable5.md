@@ -14,7 +14,8 @@
 
 
 ## 4. Sequence diagram
-
+![Image of sequence diagram](https://github.com/jdr479/CS-Play/tree/main/Deliverables/deliverable_images/D5_Sequence_Diagram.png)   
+**Use case**: As a creator, I want to create my own levels
 
 ## 5. Design Patterns
 Design Pattern 1:(Behavior) Strategy -update X position and Y position from the parent class Position
