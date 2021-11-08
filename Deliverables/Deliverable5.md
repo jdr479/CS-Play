@@ -11,7 +11,7 @@
 
 
 ## 3. Class diagram
-
+![Class Diagram of our system](https://github.com/jdr479/CS-Play/tree/main/Deliverables/deliverable_images/CompleteClassDiagram.png)
 
 ## 4. Sequence diagram
 ![Image of sequence diagram](https://github.com/jdr479/CS-Play/tree/main/Deliverables/deliverable_images/D5_Sequence_Diagram.png)   
