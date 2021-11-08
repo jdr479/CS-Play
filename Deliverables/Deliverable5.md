@@ -17,6 +17,8 @@
 
 
 ## 5. Design Patterns
+Design Pattern 1:(Behavior) Strategy -update X position and Y position from the parent class Position
+![Figure 5.1 -UML diagram of implementation of Strategy method](https://github.com/jdr479/CS-Play/blob/main/Deliverables/deliverable_images/class-diagram.png)
 
 
 ## 6. Design Principles
