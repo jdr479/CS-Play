@@ -59,8 +59,10 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 
 
 ## 6. Lessons learned
-Our team have learned that we tend to underestimate how much time it takes to implement things. We wanted to make much more but we realized that 
+Our team has learned that we tend to underestimate how much time it takes to implement things. We wanted to make much more but we realized that 
 we would have to decrease our scope quite a bit. We also learned to be flexible when things didn't work out the way we wanted them to and to find 
-alternative ways instead. 
+alternative ways instead. During the development for implementation 2 we still had some of the problems from earlier weeks like working in the same files. 
+In Deliverable 4 we mentioned that we had some problems with unorganized code which we solved during this implementation by organizing the repository
+and all the files in it. One major obstacle for our group has been computer trouble with multiple members of our group experiencing it at the same time which caused lost code and lost access to the web server located on one members computer. In hindsight it might have been better to choose a platform to host the server that was accessible online to all members instead. 
 
 
