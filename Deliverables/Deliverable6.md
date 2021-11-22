@@ -1,4 +1,4 @@
-# Deliverable 5 - Design
+# Deliverable 6 - Implementation
 
 *Group 5 - “CS Play”*   
 *Date:* 21 November, 2021    
@@ -56,7 +56,9 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 **Approved by:** Johnathan Ray
 
 ## 3. Tests
-
+For our testing, we decided to use Mocha for any JavaScript code that we need tested.
+[Test Folder](https://github.com/jdr479/CS-Play/tree/main/website/tests)
+**Example Test:** [Class Being Tested](https://github.com/jdr479/CS-Play/blob/main/website/Levels/level01.js)
 
 ## 4. Demo
 [Link to our Demo Video](https://www.youtube.com/channel/UCzVoMn4pQRTw_o6RLB4xZTQ)
