@@ -33,7 +33,7 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 
 **Requirement:** As a player, I want to see a user-friendly UI interface so that I may have interest in exploring it.     
 **Issue:** [Trello link](https://trello.com/c/3KSeDVr9/43-as-a-player-i-want-to-see-a-user-friendly-ui-interface-so-that-i-may-have-interest-in-exploring-it)    
-**Pull Request:** [https://github.com/jdr479/CS-Play/pull/53](https://github.com/jdr479/CS-Play/pull/68)    
+**Pull Request:** [https://github.com/jdr479/CS-Play/pull/109](https://github.com/jdr479/CS-Play/pull/109)    
 **Implemented by:** Pengfei Liu     
 **Approved by:** Pengfei Liu   
 
