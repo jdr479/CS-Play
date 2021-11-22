@@ -49,6 +49,12 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 **Implemented by:** Johnathan Ray & Emma Carlsson     
 **Approved by:** Pengfei Liu 
 
+**Requirement:** "As a user, I want to look at all the available levels so that I can select one and play"    
+**Issue:** [Trello link](https://trello.com/c/rmnk4NMz/22-as-a-user-i-want-to-look-at-all-the-available-levels-so-that-i-can-select-one-and-play)    
+**Pull Request:** [https://github.com/jdr479/CS-Play/pull/114](https://github.com/jdr479/CS-Play/pull/114)    
+**Implemented by:** Emma Carlsson     
+**Approved by:** Johnathan Ray
+
 ## 3. Tests
 
 
