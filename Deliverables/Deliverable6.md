@@ -53,7 +53,7 @@ Trello: [https://trello.com/b/6tZySP6X/cs-play](https://trello.com/b/6tZySP6X/cs
 
 
 ## 4. Demo
-
+[Link to our Demo Video](https://www.youtube.com/channel/UCzVoMn4pQRTw_o6RLB4xZTQ)
 
 ## 5. Code quality
 
