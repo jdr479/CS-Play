@@ -64,6 +64,7 @@ For our testing, we decided to use Mocha for any JavaScript code that we need te
 [Link to our Demo Video](https://www.youtube.com/channel/UCzVoMn4pQRTw_o6RLB4xZTQ)
 
 ## 5. Code quality
+For javascript we put the curly braces on their own lines and had them lined up. We also declare all variables at the top of the file. Functions are placed below the variables and then eventlistners below the functions. In our CSS code we would put the opening curly brace on the same line as the class. The closing brace is on its own line without any space. For each pull request, we will go through the code submitted and make sure that it all fits within our coding conventions.
 
 
 ## 6. Lessons learned
