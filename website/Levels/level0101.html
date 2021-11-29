@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<head>
+    <!--CodeMirror-->
+    <script src="css/codemirror-5.64.0/lib/codemirror.js"></script>
+    <link rel="stylesheet" href="css/codemirror-5.64.0/lib/codemirror.css">
+    <script src="css/codemirror-5.64.0/mode/python/python.js"></script>
+    <link rel="stylesheet" href="css/codemirror-5.64.0/theme/midnight.css">
+
+	<!--Fonts-->
+	<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700' rel='stylesheet' type='text/css'>
+
+	<!--css-->
+	<link rel="stylesheet" href="css/game.css">
+
+	<!--JavaScript-->
+</head>
+
+<header>
+	<ul class="nav">
+		<li class="nav-image float-left"><a href=""><img src="../../images/logo.png"></a></li>
+		<li class="nav-element float-right"><a href="">Contact</a></li>
+		<li class="nav-element float-right"><a href="">Courses</a></li>
+		<li class="nav-element float-right"><a href="">Community</a></li>
+		<li class="nav-element float-right"><a href="../home_login/index.html">Home</a></li>
+	</ul>
+</header>
+
+
+
+<div id="game-container" class="float-container">
+    <div id="player-input" class="float-child">
+		<div id="help-bar">
+			<button id="help-button" class="float-left"><img src="images/qm_transparent.png" alt=""></button>
+			<button id="instructions-button">Click Here for Instructions</button>
+			<button id="run-button" class="float-right">Run</button>
+		</div>
+		<div id="editor">
+<textarea id="editor-text"># Make sure to read about the problem first before starting
+# The Instructions can be found in the menu bar above
+
+# If you ever get stuck, you can always press the "?" symbol for a hint
+# but remember, you only get 3 hints, after that you're on your own
+
+# Good luck!
+
+# initial values
+board = []
+x_value = 0
+o_value = 1
+
+
+def findBestPlacement():
+# ----------------------------------------------
+# This is the function that you are implementing
+# ----------------------------------------------
+
+
+# Don't touch these functions, or else something might break
+import sys, json
+
+def readIn():
+    read = sys.stdin.readlines()
+    return json.loads(read[0])
+
+def boardIsFull():
+	for x in board:
+		if x == -1:
+			return false
+	return true
+
+def getElement(row, col) {
+    return board[row * 3 + col];
+}
+
+def hasLost():
+    #check rows
+    for x in range(2):
+        if getElement(x, 0) == getElement(x, 1) and getElement(x, 1) == getElement(x, 2):
+            return true
+    
+    #check cols
+    for x in range(2)
+        if getElement(0, x) == getElement(1, x) and getElement(1, x) == getElement(2, x):
+            return true
+    
+    #check diagonals
+    if getElement(0, 0) == getElement(1, 1) == getElement(2, 2):
+        return true
+    if getElement(2, 0) == getElement(1, 1) == getElement(0, 2):
+        return true
+
+def main():
+    board = readIn()
+
+    while(!boardIsFull() and !hasLost()):
+        findBestPlacement()
+
+if __name__ == '__main__':
+    main()
+	
+</textarea>
+        	<script>
+            	let editor = CodeMirror.fromTextArea(document.getElementById('editor-text'), {
+                	mode: "python",
+                	theme: "midnight",
+                	lineNumbers: true,
+            	});
+				editor.setSize("auto", "60vh");
+        	</script>
+		</div>
+		<div id="console">
+<textarea id="console-text">This is where the output of your code appears</textarea>
+			<script>
+				let console = CodeMirror.fromTextArea(document.getElementById('console-text'), {
+					theme: "midnight",
+					mode: "text/plain",
+					readOnly: true,
+					lineNumbers: true
+				})
+				console.setSize("auto", "300px");
+			</script>	
+		</div>
+    </div>
+    <div id="output" class="float-right">
+		<table id="window">
+            <tr>
+                <td><img src="" alt=""></td>
+                <td><img src="" alt=""></td>
+                <td><img src="" alt=""></td>
+            </tr>
+                <td><img src="" alt=""></td>
+                <td><img src="" alt=""></td>
+                <td><img src="" alt=""></td>
+            <tr>
+                <td><img src="" alt=""></td>
+                <td><img src="" alt=""></td>
+                <td><img src="" alt=""></td>
+            </tr>
+        </table>
+    </div>
+</div>
+</html>
