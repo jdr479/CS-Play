@@ -99,7 +99,7 @@ const ANSWER_TO_PUZZLE = "return open";
 
             function goToTerminal()
             {
-                location.href='http://johnathanray.com/cs-play/Levels/level0101.html';
+                location.href='http://johnathanray.com/cs-play/Levels/0101/level0101.html';
             }
             
             function updateXPosition(distance)
