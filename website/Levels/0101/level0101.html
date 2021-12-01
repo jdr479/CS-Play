@@ -1,28 +1,25 @@
 <!DOCTYPE html>
 <head>
     <!--CodeMirror-->
-    <script src="css/codemirror-5.64.0/lib/codemirror.js"></script>
-    <link rel="stylesheet" href="css/codemirror-5.64.0/lib/codemirror.css">
-    <script src="css/codemirror-5.64.0/mode/python/python.js"></script>
-    <link rel="stylesheet" href="css/codemirror-5.64.0/theme/midnight.css">
-
-	<!--Fonts-->
-	<link href='https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700' rel='stylesheet' type='text/css'>
+    <script src="../css/codemirror-5.64.0/lib/codemirror.js"></script>
+    <link rel="stylesheet" href="../css/codemirror-5.64.0/lib/codemirror.css">
+    <script src="../css/codemirror-5.64.0/mode/python/python.js"></script>
+    <link rel="stylesheet" href="../css/codemirror-5.64.0/theme/midnight.css">
 
 	<!--css-->
-	<link rel="stylesheet" href="css/game.css">
+	<link rel="stylesheet" href="../css/level0101.css">
 
 	<!--JavaScript-->
-    <script src="modules/js/level0101_setup.js"></script>
+    <script src="../modules/js/level0101_setup.js"></script>
 </head>
 
 <header>
 	<ul class="nav">
-		<li class="nav-image float-left"><a href=""><img src="../../images/logo.png"></a></li>
+		<li class="nav-image float-left"><a href=""><img src="/images/logo.png"></a></li>
 		<li class="nav-element float-right"><a href="">Contact</a></li>
 		<li class="nav-element float-right"><a href="">Courses</a></li>
 		<li class="nav-element float-right"><a href="">Community</a></li>
-		<li class="nav-element float-right"><a href="../home_login/index.html">Home</a></li>
+		<li class="nav-element float-right"><a href="../../home_login/index.html">Home</a></li>
 	</ul>
 </header>
 
@@ -31,7 +28,7 @@
 <div id="game-container" class="float-container">
     <div id="player-input" class="float-child">
 		<div id="help-bar">
-			<button id="help-button" class="float-left"><img src="images/qm_transparent.png" alt=""></button>
+			<button id="help-button" class="float-left"><img src="../images/qm_transparent.png" alt=""></button>
 			<button id="instructions-button">Click Here for Instructions</button>
 			<button id="run-button" class="float-right">Run</button>
 		</div>
@@ -54,51 +51,6 @@ def findBestPlacement():
 # ----------------------------------------------
 # This is the function that you are implementing
 # ----------------------------------------------
-
-
-# Don't touch these functions, or else something might break
-import sys, json
-
-def readIn():
-    read = sys.stdin.readlines()
-    return json.loads(read[0])
-
-def boardIsFull():
-	for x in board:
-		if x == -1:
-			return false
-	return true
-
-def getElement(row, col) {
-    return board[row * 3 + col];
-}
-
-def hasLost():
-    #check rows
-    for x in range(2):
-        if getElement(x, 0) == getElement(x, 1) and getElement(x, 1) == getElement(x, 2):
-            return true
-    
-    #check cols
-    for x in range(2)
-        if getElement(0, x) == getElement(1, x) and getElement(1, x) == getElement(2, x):
-            return true
-    
-    #check diagonals
-    if getElement(0, 0) == getElement(1, 1) == getElement(2, 2):
-        return true
-    if getElement(2, 0) == getElement(1, 1) == getElement(0, 2):
-        return true
-
-def main():
-    board = readIn()
-
-    while(!boardIsFull() and !hasLost()):
-        findBestPlacement()
-
-if __name__ == '__main__':
-    main()
-	
 </textarea>
         	<script>
             	let editor = CodeMirror.fromTextArea(document.getElementById('editor-text'), {
