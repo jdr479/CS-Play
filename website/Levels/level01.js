@@ -1,4 +1,6 @@
 const EXIT_BUTTON = document.querySelector("#exit-button");
+const TERMINAL_BUTTON = document.querySelector("#terminal-button");
+const ANSWER_TO_PUZZLE = "return open";
             
             let computerPosition = 
             {
@@ -58,12 +60,25 @@ const EXIT_BUTTON = document.querySelector("#exit-button");
                 if(playerPosition.x == goalPosition.x && playerPosition.y == goalPosition.y)
                 {
                     levelComplete = true;
+                    print("Hello");
                 }
 
                 if(levelComplete)
                 {
                     alert("Level Complete!");
                 }
+            }
+            
+            function checkPlayerAnswer()
+            {
+                let answer = document.querySelector("#answer").value;
+
+                if(answer == ANSWER_TO_PUZZLE)
+                {
+                    return true;
+                }
+
+                return false;
             }
             
             function checkPuzzleSolved()
@@ -81,6 +96,11 @@ const EXIT_BUTTON = document.querySelector("#exit-button");
                 }
 
             }
+
+            function goToTerminal()
+            {
+                location.href='http://johnathanray.com/cs-play/Levels/level0101.html';
+            }
             
             function updateXPosition(distance)
             {
@@ -94,6 +114,8 @@ const EXIT_BUTTON = document.querySelector("#exit-button");
                 {
                     playerPosition.x = playerPosition.x - distance;
                 }
+                
+                print(checkPlayerAnswer());
             }
 
             function updateYPosition(distance)
@@ -145,3 +167,4 @@ const EXIT_BUTTON = document.querySelector("#exit-button");
             }, true)
 
             EXIT_BUTTON.addEventListener('click', switchOffTerminal);
+            TERMINAL_BUTTON.addEventListener('click', goToTerminal);
