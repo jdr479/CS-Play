@@ -20,7 +20,7 @@ This example test checks to see if the position of the player mock object has be
 
 ### 2.2. Acceptance test
 We used Selenium for our Acceptance test.
-**Tests:**[Test File]((https://github.com/jdr479/CS-Play/tree/main/website/tests/acceptance1.js))
+**Tests:** [Test File](https://github.com/jdr479/CS-Play/blob/main/tests/acceptance1.js)
 **Results:**
 ![Console Output](https://github.com/jdr479/CS-Play/blob/main/Deliverables/deliverable_images/AT1.PNG)
 ![Resulting Page](https://github.com/jdr479/CS-Play/blob/main/Deliverables/deliverable_images/AT2.PNG)
