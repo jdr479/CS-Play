@@ -23,8 +23,8 @@ We used Selenium for our Acceptance test.
 **Tests:**[Test Folder]()
 **Example Test:**[Class Being Tested](https://github.com/jdr479/CS-Play/tree/main/website/tests)
 **Results:**
-![Console Output](../deliverable_images/AT1.png)
-![Resulting Page](../deliverable_images/AT2.png)
+![Console Output](deliverable_images/AT1.png)
+![Resulting Page](deliverable_images/AT2.png)
 
 
 ## 3. Validation (user evaluation)
