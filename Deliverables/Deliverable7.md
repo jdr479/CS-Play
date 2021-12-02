@@ -12,6 +12,10 @@ For beginners who are interested in learning programming, CS-Play is an interact
 
 
 ### 2.1. Unit test
+For our testing, we decided to use Mocha for any JavaScript code that we need tested.
+**Tests:** [Test Folder](https://github.com/jdr479/CS-Play/tree/main/website/tests)
+**Example Test:** [Class Being Tested](https://github.com/jdr479/CS-Play/blob/main/website/Levels/level01.js)
+This example test checks to see if the position of the player mock object has been updated correctly. It does so by checking the values of the x and y positions. 
 
 
 ### 2.2. Acceptance test
