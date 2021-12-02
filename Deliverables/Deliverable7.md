@@ -19,3 +19,16 @@ For beginners who are interested in learning programming, CS-Play is an interact
 
 ## 3. Validation (user evaluation)
 
+### User evaluation 1
+**Name:** Oskar Karlsson    
+**Results:** He really liked the design of the website. It was simple, easy to navigate and looked professional. The level itself didn't work at the time of the evaluation so he couldn't test that part. While he liked the ooevrall look uf it, he could still tell that the website was early in development and lacked a lot of features. For example he would like us to add a learning page, like texts about different programming concepts and maybe videos too. Another thing he missed was the community part; which he had heard our plan about and was expecting, with users able to create levels themselves and playing levels made by others.   
+
+### User evaluation 2
+
+
+### User evaluation 3
+
+
+### Reflections
+Like we've talked about before, we were hoping and planning on developing so much more. The biggest problem with out website was simply that we didn't have enough features because even if the users liked our idea and the design of our website, they can't really do much on it in it's current condition. 
+
