@@ -19,6 +19,12 @@ This example test checks to see if the position of the player mock object has be
 
 
 ### 2.2. Acceptance test
+We used Selenium for our Acceptance test.
+**Tests:**[Test Folder]()
+**Example Test:**[Class Being Tested](https://github.com/jdr479/CS-Play/tree/main/website/tests)
+**Results:**
+![Console Output](../deliverable_images/AT1.png)
+![Resulting Page](../deliverable_images/AT2.png)
 
 
 ## 3. Validation (user evaluation)
